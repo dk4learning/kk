@@ -1,0 +1,38 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Copyright 2014-2015 WPDating.Com
+
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+Versioning Legend: 1.0.0
+----
+
+MAJOR version when you make major changes,
+MINOR version when you add features or functions
+PATCH version when you make bug fixes
+
+----
+(17th October 2017) DSP LOGIN Changes Version 5.8
+[+] Support for lovematch theme
+
+----
+(10th April 2017) DSP LOGIN Changes Version 5.7
+[!] Facebook api sdk updated
+
+----
+(12th December 2016) DSP LOGIN Changes Version 5.6
+[+] Qtranslate Support
+
+----
+(4th May 2016) DSP LOGIN Changes Version 5.5
+[!] Facebook Login Button Added
+[!] DSP Login Sidebar widget translation
+----

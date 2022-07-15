@@ -1,0 +1,5 @@
+.ScrollStyle #results
+{
+    overflow: auto;
+    max-height: 770px;
+}

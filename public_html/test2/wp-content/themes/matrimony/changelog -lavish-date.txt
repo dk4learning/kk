@@ -1,0 +1,130 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Copyright 2014-2015 WPDating.Com
+
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+Versioning Legend: 1.0.0
+----
+
+MAJOR version when you make major changes,
+MINOR version when you add features or functions
+PATCH version when you make bug fixes
+-------
+
+(8 January 2021) Lavish Date Version 3.2.0
+[+] Photo update option in Profile Photo Section
+[!] Font size issue fix
+-------
+(1 September 2020) wpdating theme instant chat updates updated Version 3.1.4
+
+(13 july 2020) wpdating theme instant chat added updated Version 3.1.3
+
+(24 June 2019) WP Dating Changes Version 3.1.2
+[!] Design Fixes on register shortcode
+-------
+(19 June 2019) WP Dating Changes Version 3.1.1
+[!] Design Fixes on zodiac, members grid and register shortcode
+-------
+(8 February 2019) WP Dating Changes Version 3.1.0
+[!] arrow on search clickable fix
+-------
+(21th January 2019) WP Dating Changes Version 3.0.0
+[+] Compatibility for WP Multi Lang Plugin
+-------
+(1st November 2018) WP Dating Changes Version 2.7.6
+[!] Distinguished the link color for forget password
+[!] Design fix in Forget password page
+[!] 'Add' button placed in proper place inside extras>>blogs
+[!] Buttons design on photos page fixed
+[!] Placeholder text for Search fixed
+[!] Edit button in two places fixed
+[!] Design Fixes (Blogs page)
+[!] Checkbox misplaced fixed in edit profile page
+[!] Submenus order for settings page fixed
+[!] Trending profile Label design fixed
+[!] Main Navigation border bottom design fixed
+------------
+(18th September2018) WP Dating Changes Version 2.7.5
+[!] Mobile responsive
+[!] Web designs improved
+------------
+(19th June 2018) WP Dating Changes Version 2.7.4
+[+] Php 7 compatibility
+
+------
+(14th May 2018) WP Dating Changes Version 2.7.3
+[+] Powered by signature added in the footer of the site
+------
+(06th April 2018) WP Dating Theme Changes Version 2.7.2
+[!] Mobile responsive for Right top header login menu
+[!] New Members and Featured Members section disappearing fixed
+[!] Css fixes
+----
+(28th February 2018) WP Dating Theme Changes Version 2.7.1
+[!] Css fixes
+
+----
+(17th October 2017) WP Dating Theme Changes Version 2.7
+[!] Facebook login button css
+
+----
+(10th April 2017) WP Dating Theme Changes Version 2.6
+[!] Facebook api sdk updated
+
+----
+(12th December 2016) WP Dating Theme Changes Version 2.5
+[+] Qtranslate Support
+
+----
+(3rd October 2016) WP Dating Theme Changes Version 2.4
+[!] Facebook login
+[+] Add to friend css
+
+----
+(22nd August 2016) WP Dating Theme Changes Version 2.3
+[!] Meet Me widget
+[!] Deprecated Functions replaced
+----
+(1st June 2016) WP Dating Theme Changes Version 2.2
+[!] Near me css
+[!] Displays display name in Featured members, Online members, New members,
+[!] Removed breadcrumb icon
+----
+(4th May 2016) WP Dating Theme Changes Version 2.1
+[+] Meet Me Widget Added
+[!] Home Page profile section removed hardcoded text
+[!] Slash(\) appearing in Happy Stories Widget
+
+----
+(18th April 2016) WP Dating Theme Changes Version 2.0
+[+] Added Typography
+[+] Improvised designed and color
+
+----
+(18th January 2016) WP Dating Theme Changes Version 1.4
+[+] Featured Member widget
+[!] Stealth mode css
+[!] Lavish header appearing correctly
+
+----
+(11th December 2015) WP Dating Theme Changes Version 1.3
+[!] Fixed Country Width at Slider search form
+[!] Dsp login button css
+[!] Astrological sign shown in user home page
+
+
+-----
+[11 September, 2015] Lavish Date Theme Changes Version 1.1.1 <lavishdate.wpdating.com>
+-----
+[+] Added sidebar template
+[!] Fixed minor CSS issues
+------------------------------

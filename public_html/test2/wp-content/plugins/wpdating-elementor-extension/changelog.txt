@@ -1,0 +1,126 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+
+=========================================================================
+						WPDating Elementor Add-on Change Log
+=========================================================================
+
+	Copyright 2021 wpdating.com
+
+=========================================================================
+						Changelog Legend:
+=========================================================================
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+======================  Versioning Legend 5.000 ===========================
+
+[1] MAJOR version when you make major changes
+[2] MINOR version when you add a features or functions
+[3] PATCH version when you make bug fixes or minor feature adjustments
+
+===========================================================================
+
+[Jan 4th, 2022] WPDating Elementor Add-on Version 2.2.0
+[+] Cache clear after profile picture update function added
+[+] License activation notification added
+[+] SMS verification in registration added
+[*] Facebook login css update and other css as well
+===========================================================================
+
+[Dec 30th, 2021] WPDating Elementor Add-on Version 2.1.0
+[*] Testimonial js updates
+[+] Option to set highlight user story in elementer added
+[+] Members listing resize option added
+[+] Member details design for dating club
+[*] Separate js for user stories section
+[!] Friend list of other user link issue
+===========================================================================
+
+[Dec 29th, 2021] WPDating Elementor Add-on Version 2.0.2
+[!] PHP error fixes
+===========================================================================
+
+[Dec 21st, 2021] WPDating Elementor Add-on Version 2.0.1
+[!] Save wpdating page type in page create and edit bug fix
+===========================================================================
+
+[Dec 17th, 2021] WPDating Elementor Add-on Version 2.0.0
+[+] Multilang feature with polylang added
+===========================================================================
+
+[Dec 8th, 2021] WPDating Elementor Add-on Version 1.6.0
+[+] Bank wire added for membership purchase
+[*] SQL Query updated in news feed and meet me
+[!] Display password field in register tab bug fixed
+===========================================================================
+
+[Dec 2nd, 2021] WPDating Elementor Add-on Version 1.5.1
+[+] New helper function added for photo fetch
+[*] Query optimization in members folder
+===========================================================================
+
+[Nov 25th, 2021] WPDating Elementor Add-on Version 1.5.0
+[+] Instant chat added
+[+] loader added for cover photo upload
+[!] password reset bug fixed
+===========================================================================
+
+[Nov 16th, 2021] WPDating Elementor Add-on Version 1.4.0
+[+] Description section added in testimonial and stories page
+[+] Thumbnail generated during cover photo upload
+[*] Thumbnail image fetched in meet me widget
+[*] Number of search result connected with DSP Admin->Search Results
+===========================================================================
+
+[Oct 1st, 2021] WPDating Elementor Add-on Version 1.3.2
+[!] Jquery error in cover photo upload fix
+[!] Default country added in search sections
+[!] Auto home page redirect fixed
+===========================================================================
+
+[Oct 1st, 2021] WPDating Elementor Add-on Version 1.3.2
+[*] Pintura editor integrated in cover photo update
+===========================================================================
+
+[Sept 6th, 2021] WPDating Elementor Add-on Version 1.3.1
+[*] Redirect url after login changed
+===========================================================================
+
+[Sept 3rd, 2021] WPDating Elementor Add-on Version 1.3.0
+[+] Edit Partner Profile Section Added
+[+] Audio Section Added
+[+] Video Section Added
+[+] Album Section Added
+[!] Photo open bugs fixed
+===========================================================================
+
+[July 29th, 2021] WPDating Elementor Add-on Version 1.2.1
+[!] Logout issue fixed
+===========================================================================
+
+[July 29th, 2021] WPDating Elementor Add-on Version 1.2.0
+[+] Credits feature integrated in gifts and message feature
+[+] Credit section added in profile details
+[+] Language Translation added
+[+] membership upgrade error added in photo section
+[+] Email message option added in other members profile
+[!] Credit upgrade with paypal issues fixed
+[!] Logout function fixed for language translation
+[!] Jquery issue fixed in photo section
+===========================================================================
+
+[July 6th, 2021] WPDating Elementor Add-on Version 1.0.1
+[!] edit location save bug fix
+[!] near me search redirection to edit location bug fix
+
+===========================================================================

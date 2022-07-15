@@ -1,0 +1,33 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+
+=========================================================================
+						Twilio Registration Add-on Change Log
+=========================================================================
+
+	Copyright 2015 wpdating.com
+
+=========================================================================
+						Changelog Legend:
+=========================================================================
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+
+[1] MAJOR version when you make major changes
+[2] MINOR version when you add a features or functions
+[3] PATCH version when you make bug fixes or minor feature adjustments
+
+===========================================================================
+
+[July 9, 2021] Version 1.2.1 Twilio Registration Add-on
+[!] Admin Twilio Form Bug fixed

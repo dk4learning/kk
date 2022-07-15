@@ -1,0 +1,94 @@
+jQuery(window).resize(function(){
+        var window_width = jQuery(window).width();
+
+        if (window_width < 980) {
+            jQuery("a.mobilemenu").show();
+            jQuery("a.mobilemenu.extended").hide();
+            jQuery(".nav_usermobilemenu").hide();
+            jQuery("i.up").hide();
+            jQuery("a.mobilemenu").click(function() {
+
+                jQuery('.nav_mobilemenu').css({"display":"block"});
+                jQuery(this).hide();
+                jQuery("a.mobilemenu.extended").show();
+            });
+
+            jQuery("li.nav_user_click_toggle").click(function() {
+                jQuery('.nav_usermobilemenu').css({"display":"block"});
+                jQuery("i.down").hide();
+                jQuery(this).addClass('toggle_user_extended');
+                jQuery(this).removeClass('nav_user_click_toggle');
+                jQuery("i.up").show();
+            });
+
+            jQuery("li.toggle_user_extended").click(function() {
+                jQuery('.nav_usermobilemenu').css({"display":"none"});
+                jQuery("i.down").show();
+                jQuery("i.up").hide();
+                jQuery(this).addClass('nav_user_click_toggle');
+                jQuery(this).removeClass('toggle_user_extended');
+            });
+
+
+
+            jQuery("a.mobilemenu.extended").click(function() {
+                jQuery('.nav_mobilemenu').css({"display":"none"});
+                jQuery("a.mobilemenu").show();
+                jQuery("a.mobilemenu.extended").hide();
+                
+            });
+        }
+        else {
+            jQuery("i.up").hide();
+            jQuery("a.mobilemenu").hide();
+            jQuery(".nav_usermobilemenu").hide();
+        }
+
+        });
+    
+
+        var window_width = jQuery(window).width();
+
+        if (window_width < 980) {
+            jQuery("a.mobilemenu").show();
+            jQuery("a.mobilemenu.extended").hide();
+            jQuery(".nav_usermobilemenu").hide();
+            jQuery("i.up").hide();
+            jQuery("a.mobilemenu").click(function() {
+
+                jQuery('.nav_mobilemenu').css({"display":"block"});
+                jQuery(this).hide();
+                jQuery("a.mobilemenu.extended").show();
+            });
+
+            jQuery("li.nav_user_click_toggle").click(function() {
+                jQuery('.nav_usermobilemenu').css({"display":"block"});
+                jQuery("i.down").hide();
+                jQuery(this).addClass('toggle_user_extended');
+                jQuery(this).removeClass('nav_user_click_toggle');
+                jQuery("i.up").show();
+            });
+
+            jQuery("li.toggle_user_extended").click(function() {
+                jQuery('.nav_usermobilemenu').css({"display":"none"});
+                jQuery("i.down").show();
+                jQuery("i.up").hide();
+                jQuery(this).addClass('nav_user_click_toggle');
+                jQuery(this).removeClass('toggle_user_extended');
+            });
+
+
+
+            jQuery("a.mobilemenu.extended").click(function() {
+                jQuery('.nav_mobilemenu').css({"display":"none"});
+                jQuery("a.mobilemenu").show();
+                jQuery("a.mobilemenu.extended").hide();
+                
+            });
+        }
+        else {
+            jQuery("i.up").hide();
+            jQuery("a.mobilemenu").hide();
+            jQuery(".nav_usermobilemenu").hide();
+        }
+        

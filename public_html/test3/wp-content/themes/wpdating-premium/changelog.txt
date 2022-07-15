@@ -1,0 +1,61 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+
+=========================================================================
+						WPDating Default Theme Change Log
+=========================================================================
+
+	Copyright 2021 wpdating.com
+
+=========================================================================
+						Changelog Legend:
+=========================================================================
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+======================  Versioning Legend 5.000 ===========================
+
+[1] MAJOR version when you make major changes
+[2] MINOR version when you add a features or functions
+[3] PATCH version when you make bug fixes or minor feature adjustments
+
+===========================================================================
+[Dec 29th, 2021] WPDating Default Version 1.2.2
+[+] Css updates for pagination
+[+] PHP error handling
+
+===========================================================================
+[Dec 17th, 2021] WPDating Default Version 1.2.1
+[+] Css updates for main menu with multilang (polylang)
+
+===========================================================================
+[Nov 25th, 2021] WPDating Default Version 1.2.0
+[+] Instant chat added
+[!] Design css updates for photo upload loader and post profile status
+
+===========================================================================
+
+[Nov 15th, 2021] WPDating Default Version 1.1.0
+[+] Custom 404 page redirect
+[!] Font Awesome issue in inner pages
+
+===========================================================================
+
+[Sept 13th, 2021] WPDating Default Version 1.0.2
+[!] Jquery old version removed 
+
+===========================================================================
+
+[Sept 9th, 2021] WPDating Default Version 1.0.1
+[!] menu section css slow load issue fixed
+
+===========================================================================

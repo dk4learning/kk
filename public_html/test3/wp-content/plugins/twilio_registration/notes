@@ -1,0 +1,9 @@
+How to send sms to user when registered.
+
+1. upload the plugin to wordpress site.
+2. A submenu will appears DSP_Admin > Twilio
+3. Register a twilio account, with your username and password
+4. On Twilio account page, it will ask to get a new test phone number.
+5. On Twilio accout page, there is a section Phone numbers > Verified caller ID. Verify your own number for test purpose.
+5. After getting the number, you will get the SID and AUTH TOKEN, which you should copy and save it in DSP_ADMIN > Twilio page.
+6. For auto login process add the dsp_add_ons add_on.

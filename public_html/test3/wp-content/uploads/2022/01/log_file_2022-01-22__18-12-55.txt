@@ -1,0 +1,46 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://test3.kongukalyaanam.com
+Data file = not defined!
+Widget file = /home/u591164756/domains/kongukalyaanam.com/public_html/test3/wp-content/uploads/2022/01/demo-widgets-data.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Site Information : 
+
+Text - No Title - Imported
+
+Quick Links : 
+
+Navigation Menu - Quick Links - Imported
+
+Contact Details widgets : 
+
+Contact-details - No Title - Imported
+
+Subscribe To Newsletter : 
+
+Text - Subscribe To Newsletter - Imported
+
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Categories - No Title - Imported
+
+

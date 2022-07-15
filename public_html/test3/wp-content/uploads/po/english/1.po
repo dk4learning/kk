@@ -1,0 +1,3912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PLUGIN_VERSION \n"
+"Report-Msgid-Bugs-To: iet-webmaster+@+open.ac.uk\n"
+"POT-Creation-Date: 2013-10-02 14:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset= utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "DSP_GUEST_HEADER_ALL"
+msgstr "ALL"
+
+msgid "DSP_GUEST_HEADER_SEARCH"
+msgstr "Search"
+
+msgid "DSP_GUEST_HEADER_ONLINE"
+msgstr "Online"
+
+msgid "DSP_GUEST_HEADER_REGISTER"
+msgstr "Register"
+
+msgid "DSP_GUEST_HEADER_LOGIN"
+msgstr "Login"
+
+msgid "DSP_SEARCH_BUTTON"
+msgstr "Search"
+
+msgid "DSP_ZIP_CODE"
+msgstr "Zip Code"
+
+msgid "DSP_USER_PRIVACY_MESSAGE"
+msgstr "You are not a friend of this member so you can&rsquo;t view this members profile."
+
+msgid "DSP_NO_RECORD_FOUND"
+msgstr "No record found for your search criteria."
+
+msgid "DSP_START_NEW_SEARCH"
+msgstr "Start a new Search"
+
+msgid "DSP_VIEW_PROFILE_IN_SEARCH"
+msgstr "View Profile"
+
+msgid "DSP_NON_STATE"
+msgstr "Non State"
+
+msgid "DSP_USER_NAME"
+msgstr "Username: "
+
+msgid "DSP_EMAIL_ADDRESS"
+msgstr "Email:"
+
+msgid "DSP_REGISTER"
+msgstr "Register"
+
+msgid "DSP_NOTE_A_PASSWORD_WILL_BE_EMAIL_TO_YOU"
+msgstr "Note: A password will be emailed to you."
+
+msgid "DSP_USER_NAME_ALREADY_EXIST_PLEASE_TRY_ANOTHER_ONE"
+msgstr "Username or Email already exist. Please try another one."
+
+msgid "DSP_PLEASE_CHECK_YOUR_EMAIL_FOR_LOGIN_DETAIL"
+msgstr "Please check your email for your username and password."
+
+msgid "DSP_REGISTERATION_SUCCESSFULL"
+msgstr "Registration Successful"
+
+msgid "DSP_YOUR_LOGIN_DETAIL"
+msgstr "Your Login Details"
+
+msgid "DSP_REGISTRATION_IS_CURRENTLY_DISABLE_PLEASE_TRY_AGAIN_LATER"
+msgstr "Registration is currently disabled."
+
+msgid "DSP_REMEMBER_ME"
+msgstr "Remember Me"
+
+msgid "DSP_LOGIN"
+msgstr "Login"
+
+msgid "DSP_RESEND_PASSWORD"
+msgstr "Resend Password"
+
+msgid "DSP_GET_NEW_PASSWORD"
+msgstr "Send New Password"
+
+msgid "DSP_ENTER_EMAIL_ADDERSS"
+msgstr "Send New Password"
+
+msgid "DSP_PLEASE_CHECK_YOUR_EMAIL_FOR_NEW_PASSWORD"
+msgstr "New Password Sent"
+
+msgid "DSP_PASSWORD_RESET_SUCCESSFULL"
+msgstr "Password Reset Successful"
+
+msgid "DSP_USER_NAME_SHOULD_NO_BE_EMPTY"
+msgstr "Fields should not be empty."
+
+msgid "DSP_PLEASE_ENTER_A_VALID_EMAIL"
+msgstr "Please enter a valid email address."
+
+msgid "DSP_HEADER_SITE_ADMIN"
+msgstr "Dating Site Admin"
+
+msgid "DSP_ZIPCODE_MODE"
+msgstr "Zip Codes"
+
+msgid "DSP_SELECT_ZIPCODE_MODE_TEXT"
+msgstr "Select ON to activate the Zip Code field"
+
+msgid "DSP_MEDIA_HEADER_PROFILES"
+msgstr "Profiles"
+
+msgid "DSP_MEDIA_HEADER_ALBUM_PHOTOS"
+msgstr "Galleries Photos"
+
+msgid "DSP_MEDIA_HEADER_PROFILE_PHOTOS"
+msgstr "Members Photos"
+
+msgid "DSP_MEDIA_HEADER_AUDIOS"
+msgstr "Audios"
+
+msgid "DSP_MEDIA_HEADER_VIDEOS"
+msgstr "Videos"
+
+msgid "DSP_MEDIA_HEADER_EMAILS"
+msgstr "Emails"
+
+msgid "DSP_MEDIA_HEADER_BLOGS"
+msgstr "Blogs"
+
+msgid "DSP_SETTINGS_SAVED_MESSAGE"
+msgstr "Settings changes are saved."
+
+msgid "DSP_MEDIA_APPROVE_PHOTOS"
+msgstr "Photos Waiting to be Approved"
+
+msgid "DSP_MEDIA_PHOTOS_APPROVED"
+msgstr "Rejected Photos"
+
+msgid "DSP_MEDIA_LINK_APPROVE"
+msgstr "Approve"
+
+msgid "DSP_MEDIA_LINK_REJECT"
+msgstr "Reject"
+
+msgid "DSP_MEDIA_LINK_SKIP"
+msgstr "Skip"
+
+msgid "DSP_TITLE_USERNAME"
+msgstr "User Name"
+
+msgid "DSP_TITLE_EMAIL_ADDESS"
+msgstr "Email Address"
+
+msgid "DSP_TITLE_REGISTRATION_DATE"
+msgstr "Registration Date"
+
+msgid "DSP_TITLE_STATUS"
+msgstr "Status"
+
+msgid "DSP_SELECT_STATUS"
+msgstr "Select Status"
+
+msgid "DSP_SUBMIT_BUTTON"
+msgstr "Submit"
+
+msgid "DSP_TEXT_REASON"
+msgstr "Reason"
+
+msgid "DSP_TEXT_TITLE"
+msgstr "Title:"
+
+msgid "DSP_TEXT_STATE"
+msgstr "State:"
+
+msgid "DSP_SELECT_STATE"
+msgstr "Select State"
+
+msgid "DSP_TEXT_DOB"
+msgstr "Date of Birth:"
+
+msgid "DSP_SETTINGS_HEADER_GENERAL"
+msgstr "General"
+
+msgid "DSP_SETTINGS_HEADER_MEMBERSHIPS"
+msgstr "Memberships"
+
+msgid "DSP_SETTINGS_HEADER_GATEWAYS"
+msgstr "Gateways"
+
+msgid "DSP_SETTINGS_HEADER_SPAM"
+msgstr "Spam"
+
+msgid "DSP_SETTINGS_HEADER_PREMIUM"
+msgstr "Premium Access"
+
+msgid "DSP_SETTINGS_HEADER_MATCHES"
+msgstr "Matches"
+
+msgid "DSP_TOOLS_HEADER_PROFILE"
+msgstr "Profile"
+
+msgid "DSP_TOOLS_HEADER_FLIRTS"
+msgstr "Flirts"
+
+msgid "DSP_TOOLS_HEADER_GEOGRAPHY"
+msgstr "Geography"
+
+msgid "DSP_TOOLS_HEADER_EMAIL_TEMPLATE"
+msgstr "Email Templates"
+
+msgid "DSP_TOOLS_HEADER_LANGUAGE"
+msgstr "Language"
+
+msgid "DSP_TOOLS_HEADER_BLACKLISTS"
+msgstr "Blacklists"
+
+msgid "DSP_TOOLS_HEADER_COUPON"
+msgstr "Coupon"
+
+msgid "DSP_TOOLS_HEADER_ESSAYS"
+msgstr "Essays"
+
+msgid "DSP_MEDIA_SUB_HEADER_TITLE"
+msgstr "Members Profiles"
+
+msgid "DSP_MEDIA_SUB_HEADER_NOT_APPROVE"
+msgstr "Pending"
+
+msgid "DSP_MEDIA_SUB_HEADER_APROVED"
+msgstr "Approved"
+
+msgid "DSP_MEDIA_SUB_HEADER_REJECTED"
+msgstr "Rejected"
+
+msgid "DSP_MEDIA_SUB_HEADER_SKIP"
+msgstr "Skiped"
+
+msgid "DSP_MEDIA_SUB_HEADER_DELETED"
+msgstr "Deleted"
+
+msgid "DSP_SEND_MESSAGE_FROM_TEMP"
+msgstr "New Email"
+
+msgid "DSP_SETTINGS_HEADER_PREMIUM_MEMBER"
+msgstr "Premium Member"
+
+msgid "DSP_MATCHES"
+msgstr "Matches"
+
+msgid "DSP_ACTIVE"
+msgstr "Active"
+
+msgid "DSP_INACTIVE"
+msgstr "Inactive"
+
+msgid "DSP_EDIT"
+msgstr "edit"
+
+msgid "DSP_DELETE"
+msgstr "Delete"
+
+msgid "DSP_ACTIVATION"
+msgstr "Activation"
+
+msgid "DSP_FREE_MODE"
+msgstr "Free Mode"
+
+msgid "DSP_MY_ARTICLES"
+msgstr "My Articles"
+
+msgid "DSP_MY_FRIENDS"
+msgstr "My Friends"
+
+msgid "DSP_SKYPE_MODE"
+msgstr "Skype Mode"
+
+msgid "DSP_MY_BLOGS"
+msgstr "My Blogs"
+
+msgid "DSP_FLIRT_MODULE"
+msgstr "Flirt Module"
+
+msgid "DSP_ENABLE_COUPONS"
+msgstr "Enable Coupons"
+
+msgid "DSP_ENABLE_ESSAY"
+msgstr "Enable Essay"
+
+msgid "DSP_SELECT_SKYPE_MODE_TEXT"
+msgstr "Select ON to activate Skype in the Profiles."
+
+msgid "DSP_SELECT_FREE_MODE_TEXT"
+msgstr "Select ON to activate the site in Free Mode."
+
+msgid "DSP_SELECT_MY_ARTICLES_TEXT"
+msgstr "Select ON to activate My Articles."
+
+msgid "DSP_SELECT_MY_FRIENDS_TEXT"
+msgstr "Select ON to activate My Friends Modules."
+
+msgid "DSP_SELECT_SKYPE_TEXT"
+msgstr "Select ON to activate Skype."
+
+msgid "DSP_SELECT_MY_BLOGS_TEXT"
+msgstr "Select ON to activate avatars Blog"
+
+msgid "DSP_SELECT_FLIRT_MODULE_TEXT"
+msgstr "Select ON to activate the Flirt Module."
+
+msgid "DSP_SELECT_ENABLE_COUPONS_TEXT"
+msgstr "Select ON to activate the Coupons."
+
+msgid "DSP_SELECT_ENABLE_ESSAY_TEXT"
+msgstr "Select ON to activate Essays."
+
+msgid "DSP_APPROVAL"
+msgstr "Approval"
+
+msgid "DSP_AUTHORIZE_PROFILES"
+msgstr "Authorize Profiles"
+
+msgid "DSP_AUTHORIZE_YOUTUBE"
+msgstr "Authorize Youtube"
+
+msgid "DSP_AUTHORIZE_VIDEOS"
+msgstr "Authorize Videos"
+
+msgid "DSP_AUTHORIZE_AUDIOS"
+msgstr "Authorize Audios"
+
+msgid "DSP_AUTHORIZE_ARTICLES"
+msgstr "Authorize Articles"
+
+msgid "DSP_AUTHORIZE_BLOGS"
+msgstr "Authorize Blogs"
+
+msgid "DSP_AUTHORIZE_PHOTOS"
+msgstr "Authorize Photos"
+
+msgid "DSP_AUTHORIZE_COMMENTS"
+msgstr "Authorize Comments"
+
+msgid "DSP_AUTHORIZE_GALLERIES"
+msgstr "Authorize Galleries"
+
+msgid "DSP_AUTHORIZE_ESSAYS"
+msgstr "Authorize Essays"
+
+msgid "DSP_SELECT_AUTHORIZE_PROFILES_TEXT"
+msgstr "Select ON to automatically approve the members profiles."
+
+msgid "DSP_SELECT_AUTHORIZE_YOUTUBE_TEXT"
+msgstr "Select ON to automatically approve youtube."
+
+msgid "DSP_SELECT_AUTHORIZE_VIDEOS_TEXT"
+msgstr "Select ON to automatically approve Videos uploaded by members."
+
+msgid "DSP_SELECT_AUTHORIZE_AUDIOS_TEXT"
+msgstr "Select ON to automatically approve the Audios uploaded by your members."
+
+msgid "DSP_SELECT_AUTHORIZE_ARTICLES_TEXT"
+msgstr "Select ON to automatically approve articles."
+
+msgid "DSP_SELECT_AUTHORIZE_BLOGS_TEXT"
+msgstr "Select ON to automatically approve blogs post."
+
+msgid "DSP_SELECT_AUTHORIZE_PHOTOS_TEXT"
+msgstr "Select ON to automatically approve photos uploaded by your members"
+
+msgid "DSP_SELECT_AUTHORIZE_COMMENTS_TEXT"
+msgstr "Select ON to automatically approve comments"
+
+msgid "DSP_SELECT_AUTHORIZE_GALLERIES_TEXT"
+msgstr "Select ON to automatically approve your members galleries."
+
+msgid "DSP_SELECT_AUTHORIZE_ESSAYS_TEXT"
+msgstr "Select ON to automatically approve essays."
+
+msgid "DSP_SETTINGS"
+msgstr "Settings"
+
+msgid "DSP_AUDIO_COUNT"
+msgstr "Audio count"
+
+msgid "DSP_VIDEO_COUNT"
+msgstr "Video count"
+
+msgid "DSP_IMAGE_COUNT"
+msgstr "Image count"
+
+msgid "DSP_CURRENCY_SIGN"
+msgstr "Currency Sign"
+
+msgid "DSP_CURRENCY"
+msgstr "Currency"
+
+msgid "DSP_TRIAL_PREMIUM"
+msgstr "Trial Premium"
+
+msgid "DSP_FREE_TRIAL_GENDER"
+msgstr "Free Trial Gender"
+
+msgid "DSP_AUDIO_COUNT_TEXT"
+msgstr "Number of Audio files allowed to upload in your members Profiles"
+
+msgid "DSP_VIDEO_COUNT_TEXT"
+msgstr "Number of Videos allowed to upload in your member's Profiles"
+
+msgid "DSP_IMAGE_COUNT_TEXT"
+msgstr "Number of Images allowed to upload in your members Profiles"
+
+msgid "DSP_CURRENCY_SIGN_TEXT"
+msgstr "Select your Currency Symbol"
+
+msgid "DSP_CURRENCY_TEXT"
+msgstr "Select your Currency"
+
+msgid "DSP_TRIAL_PREMIUM_TEXT"
+msgstr "Number of days for Premium Membership - Enter -1 for no"
+
+msgid "DSP_FREE_TRIAL_GENDER_TEXT"
+msgstr "Who gets free trial of Premium Membership?"
+
+msgid "DSP_FREE_TRAIL_MODE"
+msgstr "Free Trial"
+
+msgid "DSP_SELECT_FREE_TRAIL_MODE_TEXT"
+msgstr "Select ON to activate Free Trial"
+
+msgid "DSP_GENDER_MODE"
+msgstr "Gender"
+
+msgid "DSP_SELECT_GENDER_MODE_TEXT"
+msgstr "Set gender for Free Trial, Male or Female or Both"
+
+msgid "DSP_FREE_TRAIL_DAYS"
+msgstr "Days"
+
+msgid "DSP_MALE"
+msgstr "Male"
+
+msgid "DSP_FEMALE"
+msgstr "Female"
+
+msgid "DSP_BOTH"
+msgstr "Both"
+
+msgid "DSP_ENABLE_EMAIL_MODE"
+msgstr "Enable Email"
+
+msgid "DSP_SELECT_ENABLE_EMAIL_MODE_TEXT"
+msgstr "Select ON to enable free email access. Choose gender below."
+
+msgid "DSP_SELECT_ENABLE_EMAIL_GENDER_MODE_TEXT"
+msgstr "Set Male or Female to allow email access to specific gender"
+
+msgid "DSP_MEMBER_LIST_GENDER_MODE"
+msgstr "Member List"
+
+msgid "DSP_MEMBER_LIST_BOTH"
+msgstr "All"
+
+msgid "DSP_SELECT_MEMBER_LIST_GENDER_MODE_TEXT"
+msgstr "Select which member list will be shown on the front page."
+
+msgid "DSP_FORCE_PROFILE_MODE"
+msgstr "Force Profile"
+
+msgid "DSP_SELECT_FORCE_PROFILE_MODE_TEXT"
+msgstr "Select ON to force members to create a profile before searching."
+
+msgid "DSP_RATE_PROFILE_MODE"
+msgstr "Rate Profile"
+
+msgid "DSP_MEMBERSHIPS"
+msgstr "Memberships"
+
+msgid "DSP_CUSTOM_MEMBERSHIPS"
+msgstr "Custom Memberships"
+
+msgid "DSP_MEMBERSHIPS_NAME"
+msgstr "Name"
+
+msgid "DSP_MEMBERSHIPS_PRICE"
+msgstr "Price"
+
+msgid "DSP_MEMBERSHIPS_DAYS_NO"
+msgstr "Number of Days"
+
+msgid "DSP_GATEWAYS"
+msgstr "Gateways"
+
+msgid "DSP_GATEWAYS_PAYPAL_ADDRESS"
+msgstr "Paypal Address"
+
+msgid "DSP_GAYEWAYS_CURRENCY"
+msgstr "Currency"
+
+msgid "DSP_SPAM_FILTER"
+msgstr "Spam Filter"
+
+msgid "DSP_SPAM_TOLERANGE"
+msgstr "Spam Tolerange"
+
+msgid "DSP_SPAM_LIMIT"
+msgstr "Spam Limit"
+
+msgid "DSP_SPAM_WORDS"
+msgstr "Spam Words"
+
+msgid "DSP_SPAMWORD"
+msgstr "Spamword"
+
+msgid "DSP_SPAM__FILTER_TEXT"
+msgstr "Select ON to activate the Spam Filter"
+
+msgid "DSP_TOLERANGE_TEXT"
+msgstr "count of identical emails"
+
+msgid "DSP_SPAM_LIMIT_TEXT"
+msgstr "count of badwords in email"
+
+msgid "DSP_TOOLS_PROFILE_SETUP"
+msgstr "Profile Setup"
+
+msgid "DSP_TOOLS_EXISTING_QUESTIONS"
+msgstr "Existing Profile Questions:"
+
+msgid "DSP_TOOLS_NAME"
+msgstr "Name:"
+
+msgid "DSP_TOOLS_TYPE"
+msgstr "Type:"
+
+msgid "DSP_TOOLS_ORDER"
+msgstr "Order:"
+
+msgid "DSP_TOOLS_ADD_NEW_PROFILE_QUESTIONS"
+msgstr "Add New Profile Question:"
+
+msgid "DSP_TOOLS_QUESTION"
+msgstr "Question"
+
+msgid "DSP_TOOLS_MAX_CHAR"
+msgstr "Max Char:"
+
+msgid "DSP_TOOLS_REQUIRED"
+msgstr "Required:"
+
+msgid "DSP_ADD_PROFILE_QUESTION_BUTTON"
+msgstr "Add Profile Question:"
+
+msgid "DSP_TOOLS_ADD_NEW_PROFILE_QUESTIONS_OPTION"
+msgstr "Add New Option:"
+
+msgid "DSP_ADD_PROFILE_QUESTION_OPTION_BUTTON"
+msgstr "Add"
+
+msgid "DSP_TOOLS_OPTION_VALUE"
+msgstr "Option value"
+
+msgid "DSP_FLIRT_MESSAGE_HEAD"
+msgstr "Flirt Message"
+
+msgid "DSP_FLIRT_TEXT"
+msgstr "Flirt Text:"
+
+msgid "DSP_MENU_MY_PAGE"
+msgstr "Home"
+
+msgid "DSP_TEXT_MY_EMAIL"
+msgstr "Email"
+
+msgid "DSP_MENU_EDIT_PROFILE"
+msgstr "Edit Profile"
+
+msgid "DSP_MENU_VIEW_PROFILE"
+msgstr "View Profile"
+
+msgid "DSP_MENU_ADD_PHOTOS"
+msgstr "Add Photos"
+
+msgid "DSP_MENU_ADD_MEDIA"
+msgstr "Media"
+
+msgid "DSP_MENU_ADD_VIDEOS"
+msgstr "Add Videos"
+
+msgid "DSP_MENU_ADD_MUSIC"
+msgstr "Add Music"
+
+msgid "DSP_MENU_SEARCH"
+msgstr "Search"
+
+msgid "DSP_MENU_SETTINGS"
+msgstr "Settings"
+
+msgid "DSP_MENU_MY_BLOGS"
+msgstr "Blogs"
+
+msgid "DSP_MENU_EXTRAS"
+msgstr "Extras"
+
+msgid "DSP_NO_RECORD_FOUND_EXTRAS"
+msgstr "No record found."
+
+msgid "DSP_MIDDLE_TAB_MESSAGE"
+msgstr "Messages"
+
+msgid "DSP_MIDDLE_TAB_COMPOSE"
+msgstr "Compose"
+
+msgid "DSP_MIDDLE_TAB_SENT"
+msgstr "Sent"
+
+msgid "DSP_MIDDLE_TAB_DELETED"
+msgstr "Deleted"
+
+msgid "DSP_MIDDLE_TAB_WINKS"
+msgstr "Winks"
+
+msgid "DSP_MIDDLE_TAB_FRIENDS"
+msgstr "Friends"
+
+msgid "DSP_MIDDLE_TAB_MY_FAVOURITES"
+msgstr "Favorites"
+
+msgid "DSP_MIDDLE_TAB_MACTHES"
+msgstr "Matches"
+
+msgid "DSP_MIDDLE_TAB_ALERTS"
+msgstr "Alerts"
+
+msgid "DSP_MIDDLE_TAB_BLOCKED"
+msgstr "Blocked"
+
+msgid "DSP_PROFILE_QUESTION_TYPE"
+msgstr "2"
+
+msgid "DSP_MY_MESSAGES"
+msgstr "My Messages"
+
+msgid "DSP_GENERAL"
+msgstr "General"
+
+msgid "DSP_GENDER"
+msgstr "Gender:"
+
+msgid "DSP_MAN"
+msgstr "Man"
+
+msgid "DSP_WOMAN"
+msgstr "Woman"
+
+msgid "DSP_I_AM"
+msgstr "I am:"
+
+msgid "DSP_SEEKING_A"
+msgstr "Seeking a:"
+
+msgid "DSP_SEEKING"
+msgstr "Seeking:"
+
+msgid "DSP_AGE"
+msgstr "Age:"
+
+msgid "DSP_COUNTRY"
+msgstr "Country:"
+
+msgid "DSP_SELECT_COUNTRY"
+msgstr "Select Country"
+
+msgid "DSP_CITY"
+msgstr "City:"
+
+msgid "DSP_SELECT_CITY"
+msgstr "Select City"
+
+msgid "DSP_ZIP"
+msgstr "Zip:"
+
+msgid "DSP_PROFILE_QUESTIONS"
+msgstr "Profile Questions"
+
+msgid "DSP_VERIFICATION_NUMBER"
+msgstr "Verification Number"
+
+msgid "DSP_READ_TERMS_SERVICES"
+msgstr "I have read and accept Terms of Service"
+
+msgid "DSP_USER_LOCATION"
+msgstr "Location:"
+
+msgid "DSP_USER_SCORE"
+msgstr "Score:"
+
+msgid "DSP_USER_QUICK_STATS"
+msgstr "Quick Stats:"
+
+msgid "DSP_USER_NEW_MESSAGES"
+msgstr "New Messages:"
+
+msgid "DSP_USER_NEW_FRIENDS"
+msgstr "New Friends:"
+
+msgid "DSP_USER_NEW_GIFTS"
+msgstr "New Gifts:"
+
+msgid "DSP_USER_CREDITS"
+msgstr "Credits:"
+
+msgid "DSP_USER_MEMBERSHIP"
+msgstr "Membership:"
+
+msgid "DSP_USER_UPDATE_STATUS"
+msgstr "Status Update"
+
+msgid "DSP_INBOX"
+msgstr "Messages"
+
+msgid "DSP_ABOUT_ME"
+msgstr "About Me"
+
+msgid "DSP_SENT"
+msgstr "Sent"
+
+msgid "DSP_COMPOSE"
+msgstr "New Message"
+
+msgid "DSP_TRASH"
+msgstr "Trash"
+
+msgid "DSP_ALERTS"
+msgstr "Alerts"
+
+msgid "DSP_WINKS"
+msgstr "Winks"
+
+msgid "DSP_MY_FAVOURITES"
+msgstr "My Favorites"
+
+msgid "DSP_SUBJECT"
+msgstr "Subject"
+
+msgid "DSP_SENDER"
+msgstr "Sender"
+
+msgid "DSP_DELETE_SELECTED"
+msgstr "Delete Selected"
+
+msgid "DSP_NEW_MEMBERS"
+msgstr "New Members"
+
+msgid "DSP_POPULAR_MEMBERS"
+msgstr "Popular Members"
+
+msgid "DSP_UPDATE_BUTTON"
+msgstr "Update"
+
+msgid "DSP_NEW_EMAIL"
+msgstr "New Email"
+
+msgid "DSP_PROFILE_TRENDINGS"
+msgstr "Profile Trending"
+
+msgid "DSP_WHO_VIEWED_ME"
+msgstr "Who Viewed Me"
+
+msgid "DSP_WHO_I_VIEWED"
+msgstr "Who I Viewed"
+
+msgid "DSP_ONLINE_MEMBER"
+msgstr "Who's Online"
+
+msgid "DSP_BACK_TO_INBOX"
+msgstr "Back to Inbox"
+
+msgid "DSP_PLEASE_ENTER_MSG"
+msgstr "Please enter "
+
+msgid "DSP_PLEASE_SELECT_MSG"
+msgstr "Please Select "
+
+msgid "DSP_VALUE_MSG"
+msgstr " values"
+
+msgid "DSP_MESSAGE_REPLY"
+msgstr "Reply"
+
+msgid "DSP_MESSAGE"
+msgstr "Message"
+
+msgid "DSP_SEND_BUTTON  "
+msgstr "Send"
+
+msgid "DSP_SEND_MESSAGE_SUCCESS"
+msgstr "Message Sent Sucessfully."
+
+msgid "DSP_SPAM_FILTER_ACTIVE_MSG"
+msgstr "Could not continue as text entered contains words included in our spam filter."
+
+msgid "DSP_FORGOT_SUBJECT_MSG"
+msgstr "You forgot to enter Subject."
+
+msgid "DSP_FORGOT_FRIEND_MSG"
+msgstr "You forgot to select your Friend."
+
+msgid "DSP_FORGOT_MESSAGE_MSG"
+msgstr "You forgot to enter Message."
+
+msgid "DSP_FORGOT_ABOUT_ME_MSG"
+msgstr "You forgot to enter About Me."
+
+msgid "DSP_MEMBER_ALERT_MSG_NOTIFICATION"
+msgstr "Alert Member Notifications-> You can&rsquo;t send a Message to this Member."
+
+msgid "DSP_SEND_TO"
+msgstr "To"
+
+msgid "DSP_SEND_MSG_BUTTON"
+msgstr "Send Message"
+
+msgid "DSP_DELETE_LINK"
+msgstr "Delete"
+
+msgid "DSP_NO_WINK_MSG"
+msgstr "No Winks!"
+
+msgid "DSP_NO_FRIENDS_MSG"
+msgstr "No Friends!"
+
+msgid "DSP_NO_FAVOURITES_MSG"
+msgstr "Currently,you have no Favorites!"
+
+msgid "DSP_MY_MATCHES"
+msgstr "My Matches"
+
+msgid "DSP_NO_MATCHES_FOUND_MSG"
+msgstr "No matches found!"
+
+msgid "DSP_PEND_FRIEND_REQUEST_MSG"
+msgstr "Pending Friend Requests."
+
+msgid "DSP_NO_FRIEND_REQUEST_MSG"
+msgstr "Currently you donot have friend request."
+
+msgid "DSP_BLOCKED_MEMBERS"
+msgstr "Blocked Members"
+
+msgid "DSP_UNBLOCK_LINK"
+msgstr "Unblock"
+
+msgid "DSP_NO_BLOCKED_MEMBER_MSG"
+msgstr "No Blocked Members!"
+
+msgid "DSP_PROFILE_UPDATE_IN_HOURS_MSG"
+msgstr "Your profile will be updated within 24 hours."
+
+msgid "DSP_PICTURE_UPDATE_IN_HOURS_MSG"
+msgstr "Pictures you uploaded will be approved within 24 hours."
+
+msgid "DSP_AUDIO_UPDATE_IN_HOURS_MSG"
+msgstr "Your audio files will be approved within 24 hours."
+
+msgid "DSP_VIDEO_UPDATE_IN_HOURS_MSG"
+msgstr "Videos you uploaded will be approved within 24 hours."
+
+msgid "DSP_UPDATE_PROFILE_BEFORE_ADD_FRND_MSG"
+msgstr "Please update Profile Before Add to friend."
+
+msgid "DSP_UPLOAD_PICTURE_LIMIT"
+msgstr "You can Upload only <#COUNT#> photos."
+
+msgid "DSP_UPLOAD_AUDIO_LIMIT"
+msgstr "You can only upload <#COUNT#> Audios"
+
+msgid "DSP_UPLOAD_VIDEO_LIMIT"
+msgstr "You can only upload <#COUNT#> videos "
+
+msgid "DSP_ERROR_UPLOADING"
+msgstr "Error uploading <#FILE_NAME#> Please try again."
+
+msgid "DSP_SYSTEM_ERROR_UPLOADING"
+msgstr "System error encountered while uploading <#FILE_NAME#>"
+
+msgid "DSP_FILE_NOT_UPLOADED_MSG"
+msgstr "<#FILE_NAME#> cannot be uploaded."
+
+msgid "DSP_NO_FILE_SELECTED_MSG"
+msgstr "No file selected."
+
+msgid "DSP_UPLOAD_SUCESS"
+msgstr "Uploaded successfully."
+
+msgid "DSP_ADD_AUDIO"
+msgstr "Add Audio:"
+
+msgid "DSP_ADD_AUDIO_BUTTON"
+msgstr "Add Audio"
+
+msgid "DSP_UPDATE_PROFILE_MESSAGE"
+msgstr "Your profile has been updated!"
+
+msgid "DSP_INVALID_SECURITY_CODE"
+msgstr "Sorry, you have provided an invalid security code"
+
+msgid "DSP_BLOCKED_MEMBER_MESSAGE"
+msgstr "Sorry,You are blocked by this user. You can not send a message."
+
+msgid "DSP_OPTION_YES"
+msgstr "Yes"
+
+msgid "DSP_OPTION_NO_PREFERENCE"
+msgstr "No Preference"
+
+msgid "DSP_OPTION_NO"
+msgstr "No"
+
+msgid "DSP_SELECT_OPTION"
+msgstr "Select"
+
+msgid "DSP_VIEW_PROFILE_SUBMENU_PROFILE"
+msgstr "Profile"
+
+msgid "DSP_VIEW_PROFILE_SUBMENU_PICTURES"
+msgstr "Pictures"
+
+msgid "DSP_VIEW_PROFILE_SUBMENU_GUESTBOOK"
+msgstr "Guestbook"
+
+msgid "DSP_VIEW_PROFILE_SUBMENU_FRIENDS"
+msgstr "Friends"
+
+msgid "DSP_VIEW_PROFILE_SUBMENU_FAVORITES"
+msgstr "My Favorites"
+
+msgid "DSP_ADD_TO_FRIENDS"
+msgstr "Add to Friends"
+
+msgid "DSP_ADD_TO_FAVOURITES"
+msgstr "Add to Favorites"
+
+msgid "DSP_SEND_MESSAGES"
+msgstr "Send Message"
+
+msgid "DSP_SEND_GIFT"
+msgstr "Send a Gift"
+
+msgid "DSP_SEND_WINK"
+msgstr "Send Wink"
+
+msgid "DSP_SKYPE_ME"
+msgstr "Skype Me"
+
+msgid "DSP_SEND_WINK_BUTTON"
+msgstr "Send Wink"
+
+msgid "DSP_CHAT_NOW"
+msgstr "Chat Now!"
+
+msgid "DSP_MORE_PHOTOS"
+msgstr "More photos"
+
+msgid "DSP_USER_VOTES"
+msgstr "Votes:"
+
+msgid "DSP_USER_VIEWS"
+msgstr "Views:"
+
+msgid "DSP_BLOCK_MEMBER"
+msgstr "Block member"
+
+msgid "DSP_USER_REPORT"
+msgstr "Report"
+
+msgid "DSP_USERS_COMMENTS"
+msgstr "Comments"
+
+msgid "DSP_USERS_ADD_COMMENT"
+msgstr "Add comment"
+
+msgid "DSP_MEMBER_BLOCKED_MESSAGE"
+msgstr "Member Blocked."
+
+msgid "DSP_EXIST_IN_BLOCK_LIST_MSG"
+msgstr "Already Exists in your blocked list."
+
+msgid "DSP_NOT_MEMBER_FRIEND_MESSAGE"
+msgstr "You are not a friend of this member so you can&rsquo;t view this members profile."
+
+msgid "DSP_ONLY_FRIEND_VIEW_PIC_MESSAGE"
+msgstr "You are not a friend of this member so you can&rsquo;t view this members pictures."
+
+msgid "DSP_ADMIN_DELETE_PROFILE_MESSAGE"
+msgstr "Your profile has not been approved yet. Please wait for 24 hours or write to the admin."
+
+msgid "DSP_NO_PROFILE_EXISTS_MESSAGE"
+msgstr "No Profile Exists."
+
+msgid "DSP_FORGET_SELECT_WINK_TEXT"
+msgstr "You forgot to select Wink text."
+
+msgid "DSP_CANT_VIEW_MEM_FRIENDS"
+msgstr "You can&rsquo;t view member Friends."
+
+msgid "DSP_CANT_VIEW_MEM_VIDEOS"
+msgstr "You can&rsquo;t view member Videos."
+
+msgid "DSP_CANT_VIEW_MEM_AUDIOS"
+msgstr "You can&rsquo;t view member Audios."
+
+msgid "DSP_FRIEND_REQUEST_SUCCESS_MSG"
+msgstr " Your Friend Request was sent successfully. After your request is accepted, you can view your added friends in your Friends list."
+
+msgid "DSP_CANT_SEND_FRIEND_REQUEST_MSG"
+msgstr "Alert Member Notifications-> You can&rsquo;t send Friend Request to this Member."
+
+msgid "DSP_FRIEND_REQUEST_ALREADY_SENT_MSG"
+msgstr "You have Already sent a request to this Member!"
+
+msgid "DSP_ALREADY_YOUR_FRIEND_MSG"
+msgstr "Already your Friend!"
+
+msgid "DSP_CANT_ADD_YOURSELF_MSG"
+msgstr "You can&rsquo;t add yourself!"
+
+msgid "DSP_BACK_TO_PROFILE_LINK"
+msgstr "Back to Profile"
+
+msgid "DSP_FAVOURITES_ADDED_SUCESS_MSG"
+msgstr "Profile added as Favorites!"
+
+msgid "DSP_ALREADY_ADDED_FAVOURITES_MSG"
+msgstr "Already added in your favorites list!"
+
+msgid "DSP_CANT_SEND_MESSAGE_YOURSELF_MSG"
+msgstr "You can&rsquo;t send a message to yourself!"
+
+msgid "DSP_SENT_MESSAGE_ONLY_FRIEND_MSG"
+msgstr "You can&rsquo;t send message, Member not added in your friend list!"
+
+msgid "DSP_MENU_CREATE_ALBUM"
+msgstr "Create Album"
+
+msgid "DSP_MENU_UPLOAD_PHOTOS"
+msgstr "Upload Photos"
+
+msgid "DSP_MENU_MANAGE_ALBUM"
+msgstr "Manage Photos/Album"
+
+msgid "DSP_SUB_MENU_ADD_VIDEO"
+msgstr "Add Video"
+
+msgid "DSP_SUB_MENU_ADD_AUDIO"
+msgstr "Add Audio"
+
+msgid "DSP_ADD_ALBUM"
+msgstr "Add Album:"
+
+msgid "DSP_ADD_VIDEO"
+msgstr "Add Video:"
+
+msgid "DSP_UPLOAD_BUTTON"
+msgstr "Upload"
+
+msgid "DSP_ADD_ALBUM_BUTTON"
+msgstr "Add Album"
+
+msgid "DSP_ALBUM"
+msgstr "Album"
+
+msgid "DSP_EDIT_ALBUM"
+msgstr "Edit"
+
+msgid "DSP_DELETE_ALBUM"
+msgstr "Delete"
+
+msgid "DSP_SELECT_ALBUM"
+msgstr "Select Album"
+
+msgid "DSP_UPLOAD_PHOTOS"
+msgstr "Upload Photo:"
+
+msgid "DSP_ADD_PHOTO_BUTTON"
+msgstr "Add Photo"
+
+msgid "DSP_BACK_TO_ALBUMS"
+msgstr "Back to Albums"
+
+msgid "DSP_ALBUM_DELETED_MSG"
+msgstr "Album has been deleted."
+
+msgid "DSP_ALBUM_NOT_BLANK_MSG"
+msgstr "Album could not be deleted, Please Delete Photos of this Album before Deleting this Album"
+
+msgid "DSP_SUBMENU_SEARCH_SEARCH"
+msgstr "Search"
+
+msgid "DSP_SUBMENU_SEARCH_ADVANCED"
+msgstr "Advanced"
+
+msgid "DSP_SUBMENU_SEARCH_SAVE"
+msgstr "Save Searches"
+
+msgid "DSP_SUBMENU_SEARCH_RESULT"
+msgstr "Search Result"
+
+msgid "DSP_SEARCH_YEARS"
+msgstr "Years"
+
+msgid "DSP_ADDITIONAL_OPTIONS"
+msgstr "Additional Options"
+
+msgid "DSP_SEARCH_ONLINE_ONLY"
+msgstr "Online Only"
+
+msgid "DSP_SEARCH_WITH_PICTURE_ONLY"
+msgstr "With Pictures Only"
+
+msgid "DSP_SAVE_THIS_SEARCH"
+msgstr "Save this search"
+
+msgid "DSP_SAVE_THIS_SEARCH_AS"
+msgstr "Save this Search as:"
+
+msgid "DSP_SEARCH_DISPLAY_TYPE"
+msgstr "Display type"
+
+msgid "DSP_HEADER_SEARCH_NAME"
+msgstr "Search Name"
+
+msgid "DSP_HEADER_DELETE_SEARCH"
+msgstr "Delete"
+
+msgid "DSP_HEADER_SEARCH_TYPE"
+msgstr "Search Type"
+
+msgid "DSP_SUBMENU_SETTINGS_ACCOUNT"
+msgstr "Account"
+
+msgid "DSP_SUBMENU_SETTINGS_NOTIFICATION"
+msgstr "Notification"
+
+msgid "DSP_SUBMENU_SETTINGS_PRIVACY"
+msgstr "Privacy"
+
+msgid "DSP_SUBMENU_SETTINGS_SKYPE"
+msgstr "Skype"
+
+msgid "DSP_SUBMENU_SETTINGS_UPGRADE_ACCOUNT"
+msgstr "Upgrade Account"
+
+msgid "DSP_FORGOT_ENTER_MAIL_ADDRESS"
+msgstr "You forgot to enter your email address."
+
+msgid "DSP_ENTER_INVALID_MAIL_ADDRESS"
+msgstr "You entered an invalid email address."
+
+msgid "DSP_ENTER_PASSWORD"
+msgstr "Please enter Pasword"
+
+msgid "DSP_PASSWORD_NOT_MATCH_CONFIRM"
+msgstr "Please enter the same password in the two password fields."
+
+msgid "DSP_ACCOUNT_SETTINGS_UPDATED"
+msgstr "You Account Settings has been updated."
+
+msgid "DSP_USERNAME"
+msgstr "Username"
+
+msgid "DSP_NOT_CHANGE_USERNAME"
+msgstr "Can&rsquo;t Change"
+
+msgid "DSP_PASSWORD"
+msgstr "Password: "
+
+msgid "DSP_CONFIRM_PASSWORD"
+msgstr "Confirm Password"
+
+msgid "DSP_TEXT_EMAIL"
+msgstr "Email"
+
+msgid "DSP_SETTINGS_UPDATED"
+msgstr "Settings Updated."
+
+msgid "DSP_TEXT_PRIVATE_MESSAGES"
+msgstr "Private messages"
+
+msgid "DSP_TEXT_FRIEND_REQUESTS"
+msgstr "Friend requests"
+
+msgid "DSP_TEXT_CAN_VIEW_MY_PICTURES"
+msgstr "Who can view my pictures"
+
+msgid "DSP_TEXT_CAN_VIEW_MY_FRIENDS"
+msgstr "Who can view my friends"
+
+msgid "DSP_TEXT_CAN_VIEW_MY_PROFILE"
+msgstr "Who can view my Profile"
+
+msgid "DSP_TEXT_CAN_VIEW_MY_VIDEO"
+msgstr "Who can view my Video"
+
+msgid "DSP_TEXT_CAN_VIEW_MY_AUDIO"
+msgstr "Who can view my Audio"
+
+msgid "DSP_EVERYONE_OPTION"
+msgstr "Everyone"
+
+msgid "DSP_FRIENDS_OPTION"
+msgstr "Friends"
+
+msgid "DSP_UPGRADE_ACCOUNT_SETTINGS_TEXT"
+msgstr "Upgrade now and enjoy double limits of regular members for the whole"
+
+msgid "DSP_ERROR_FORGOT_SELECT_COUNTRY_FIELD"
+msgstr "You forgot to select your country."
+
+msgid "DSP_ERROR_FORGOT_ENTER_ZIPCODE"
+msgstr "You forgot to enter your Zipcode."
+
+msgid "DSP_ERROR_SELECT_CITY"
+msgstr "You forgot to Select your City."
+
+msgid "DSP_ERROR_SELECT_STATE"
+msgstr "You forgot to select your State."
+
+msgid "DSP_ERROR_SELECT_Y_TERMS_SERVICES"
+msgstr "please select Yes if you read and accept Terms of Service."
+
+msgid "DSP_SKYPE_NAME"
+msgstr "Skype Name:"
+
+msgid "DSP_SKYPE_SETTING"
+msgstr "Skype Setting:"
+
+msgid "DSP_SHOW_TO_EVERYONE_OPTION"
+msgstr "Show to Everyone"
+
+msgid "DSP_SHOW_TO_FAVOURITES_OPTION"
+msgstr "Show to Favorites"
+
+msgid "DSP_MENU_ADD_MY_BLOGS"
+msgstr "Add Blogs"
+
+msgid "DSP_ADD_MY_BLOGS_TITLE"
+msgstr "Title"
+
+msgid "DSP_ADD_MY_BLOG"
+msgstr "Blog"
+
+msgid "DSP_ADD_MY_BLOGS_TAGS"
+msgstr "Tags"
+
+msgid "DSP_ADD_MY_BLOGS_ADD_BUTTON"
+msgstr "Add"
+
+msgid "DSP_ADD_MY_BLOGS_DATE"
+msgstr "Date"
+
+msgid "DSP_ADMIN_BLOG_USERNAME"
+msgstr "User Name"
+
+msgid "DSP_ADMIN_BLOG_TITLE"
+msgstr "Blog Title"
+
+msgid "DSP_ADMIN_BLOG_DATE"
+msgstr "Blog Date/Time"
+
+msgid "DSP_MENU_VIEWED_ME"
+msgstr "Viewed Me"
+
+msgid "DSP_MENU_I_VIEWED"
+msgstr "I Viewed"
+
+msgid "DSP_MENU_TRENDING"
+msgstr "Trending"
+
+msgid "DSP_PROFILE_TRENDING"
+msgstr "Trending Profiles"
+
+msgid "DSP_INTEREST_CLOUD"
+msgstr "Interest Cloud"
+
+msgid "DSP_MY_INTEREST"
+msgstr "My Interests"
+
+msgid "DSP_ACCOUNTING_REPORT_SETTING"
+msgstr "Accounting"
+
+msgid "DSP_TOTAL_AMOUNT_REPORT_SETTING"
+msgstr "Total Amount"
+
+msgid "DSP_DURING_LAST_REPORT_SETTING"
+msgstr "During Last:"
+
+msgid "DSP_ON_THE_DATE_REPORT_SETTING"
+msgstr "On the Date: "
+
+msgid "DSP_BETWEEN_DATES_REPORT_SETTING"
+msgstr "Between Dates:"
+
+msgid "DSP_TOTAL_REPORT_SETTING"
+msgstr "Totals"
+
+msgid "DSP_SUBMIT_REPORT_SETTING"
+msgstr "Submit"
+
+msgid "DSP_PLEASE_ENTER_DAYS"
+msgstr "Please enter days!"
+
+msgid "DSP_PLEASE_ENTER_ON_DATE"
+msgstr "Please enter the date!"
+
+msgid "DSP_PLEASE_ENTER_FROM_DATE"
+msgstr "please enter date range!"
+
+msgid "DSP_PLEASE_ENTER_TO_DATE"
+msgstr "Please enter date range!"
+
+msgid "DSP_PLEASE_ENTER_A_NUMBER"
+msgstr "Please enter a number!"
+
+msgid "SITE_CURRENCY_SYMBOL"
+msgstr "$"
+
+msgid "DSP_TYPE_0_FOR_TODAY_TRANSACTION_REPORT_SETTING"
+msgstr "Days (Type 0 for today's transactions)"
+
+msgid "DSP_SEARCH_PREMIUM_MEMBERS"
+msgstr "Search Premium Members"
+
+msgid "DSP_GRANT_PREMIUM_MEMBERSHIP"
+msgstr "Grant Premium Membership"
+
+msgid "DSP_BLACKLIST_SEARCH_USERS"
+msgstr "Search Users"
+
+msgid "DSP_BLACKLIST_ADD_IP_TO_BLACKLIST"
+msgstr "Add IP to blacklist"
+
+msgid "DSP_BLACKLIST_IP"
+msgstr "Blacklisted IP's"
+
+msgid "DSP_BLACKLIST_USERNAME_OR_IP"
+msgstr "Username/IP"
+
+msgid "DSP_BLACKLIST_USERS"
+msgstr "Users"
+
+msgid "DSP_BLACKLIST_IP_ADDRESS"
+msgstr "IP Address"
+
+msgid "DSP_BLACKLIST_USERS_STATUS"
+msgstr "Status"
+
+msgid "DSP_BLACKLISTED"
+msgstr "Blacklisted"
+
+msgid "DSP_BLACKLIST_ADD_BUTTON"
+msgstr "Add"
+
+msgid "DSP_BLACKLIST_SEARCH_BUTTON"
+msgstr "Search"
+
+msgid "DSP_TOOLS_LANGUAGE"
+msgstr "Language"
+
+msgid "DSP_TOOLS_LANGUAGE_ADMIN"
+msgstr "Language Admin"
+
+msgid "DSP_TOOLS_LANGUAGE_CODE_NAME"
+msgstr "Code Name"
+
+msgid "DSP_TOOLS_LANGUAGE_TEXT_NAME"
+msgstr "Text Name"
+
+msgid "DSP_VIEW_PROFILE_SUBMENU_AUDIO"
+msgstr "Audio"
+
+msgid "DSP_VIEW_PROFILE_SUBMENU_VIDEO"
+msgstr "Video"
+
+msgid "DSP_GAYEWAYS_CURRENCY_SYMBOL"
+msgstr "Currency Symbol"
+
+msgid "DSP_TOOL_THUMBNAILS"
+msgstr "Thumbnails"
+
+msgid "DSP_TOOL_GEOGRAPHY"
+msgstr "Geography"
+
+msgid "DSP_TOOL_EMAIL_TEMPLATE"
+msgstr "Email Templates"
+
+msgid "DSP_ACCOUNTING_DEMOGRAPHICS_SETTING"
+msgstr "Demographics"
+
+msgid "DSP_ADD_LANGUAGE_TEXT"
+msgstr "Add Language Text"
+
+msgid "DSP_SETTINGS_HEADER_USERPLANE"
+msgstr "Instant Messenger"
+
+msgid "USERPLANE"
+msgstr "Instant Messenger"
+
+msgid "DSP_SITE_ID"
+msgstr "Site ID"
+
+msgid "DSP_API_KEY"
+msgstr "API Key"
+
+msgid "DSP_TOOLS_PROFILE_GENERATOR"
+msgstr "Profile Generator"
+
+msgid "DSP_AGE_RANGE"
+msgstr "Age Range"
+
+msgid "DSP_ADD_ABOUT_ME"
+msgstr "Add About Me"
+
+msgid "DSP_ADD_MY_MATCH"
+msgstr "Add My Match"
+
+msgid "DSP_IMAGES"
+msgstr "Images"
+
+msgid "DSP_NUMBER_OF_INTEREST"
+msgstr "Number of Interests"
+
+msgid "DSP_RANDOM"
+msgstr "Random"
+
+msgid "DSP_GENERATOR"
+msgstr "Generate"
+
+msgid "DSP_SELECT_RATE_PROFILE_TEXT"
+msgstr "Select ON to allow members to Rate Profiles."
+
+msgid "DSP_COUPLE"
+msgstr "Couples"
+
+msgid "DSP_MENU_EDIT_MY_PROFILE"
+msgstr "My Profile"
+
+msgid "DSP_MENU_EDIT_PARTNER_PROFILE"
+msgstr "Partner Profile"
+
+msgid "DSP_USERNAME_SEARCH"
+msgstr "Username Search"
+
+msgid "DSP_SETTINGS_HEADER_DSNEWS"
+msgstr "DS News"
+
+msgid "DSP_DSNEWS"
+msgstr "DatingSolutions.biz News"
+
+msgid "DSP_DATE_TRACKER"
+msgstr "Date Tracker"
+
+msgid "DSP_SELECT_DATE_TRACKER_TEXT"
+msgstr "Select ON to activate the Date Tracker mode."
+
+msgid "DSP_INSTANT_MESSENGER_MODE"
+msgstr "Instant Messenger"
+
+msgid "DSP_SELECT_INSTANT_MESSENGER_TEXT"
+msgstr "Select ON to activate instant Messenger"
+
+msgid "DSP_IM_RECIPIENT_MODE"
+msgstr "IM Recipient"
+
+msgid "DSP_SELECT_IM_RECIPIENT_TEXT"
+msgstr "Select ON to activate IM. Recipient must be premium member"
+
+msgid "DSP_BLOG_MODE"
+msgstr "Blog"
+
+msgid "DSP_SELECT_BLOG_TEXT"
+msgstr "Select ON to activate the Blog."
+
+msgid "DSP_PICTURE_GALLERY_MODE"
+msgstr "Picture Gallery"
+
+msgid "DSP_SELECT_PICTURE_GALLERY_TEXT"
+msgstr "Select ON to activate the Picture Gallery."
+
+msgid "DSP_VIDEO_MODE"
+msgstr "Video"
+
+msgid "DSP_SELECT_VIDEO_TEXT"
+msgstr "Select ON to activate the Video."
+
+msgid "DSP_AUDIO_MODE"
+msgstr "Audio"
+
+msgid "DSP_SELECT_AUDIO_TEXT"
+msgstr "Select ON to activate the Audio."
+
+msgid "DSP_MATCH_ALERT_MODE"
+msgstr "Match Alert"
+
+msgid "DSP_SELECT_MATCH_ALERT_TEXT"
+msgstr "Select ON to activate the Match Alert."
+
+msgid "DSP_COUPLES_MODE"
+msgstr "Couples"
+
+msgid "DSP_SELECT_COUPLES_TEXT"
+msgstr "Select ON to activate the Couples Mode."
+
+msgid "DSP_REPORT_USER"
+msgstr "Report User"
+
+msgid "DSP_BLOCK_USER"
+msgstr "Block User"
+
+msgid "DSP_NOT_LOGGEDIN_MESSAGE"
+msgstr "You must be logged in to use this feature."
+
+msgid "DSP_UPGRADE_PREMIUM_MEMBER_MESSAGE"
+msgstr "Only premium member can access this feature, Please upgrade your account"
+
+msgid "DSP_PREMIUM_MEMBER_EXPIRED_MESSAGE"
+msgstr "Your Premimum Account has been expired, Please upgrade your account"
+
+msgid "DSP_RECIPIENT_PREMIUM_MEMBER_MESSAGE"
+msgstr "Recipient member is not a premium member."
+
+msgid "DSP_RECIPIENT_PREMIUM_MEMBER_EXPIRED_MESSAGE"
+msgstr "Recipients Premimum Account has been expired."
+
+msgid "DSP_DATE_TRACKER_MESSAGE"
+msgstr "Have you gone on a date with this person?"
+
+msgid "DSP_REPORT_PROFILE_MESSAGE"
+msgstr "Are you sure you want to report this profile?"
+
+msgid "DSP_DELETE_BLOCKED_MEMBER_MESSAGE"
+msgstr "Are you sure you want to delete?"
+
+msgid "DSP_DELETE_PHOTOS_ALBUM_MESSAGE"
+msgstr "Are you sure you want to delete this Album?"
+
+msgid "DSP_UPDATE_PHOTOS_ALBUM_MESSAGE"
+msgstr "Are you sure you want to update this Album?"
+
+msgid "DSP_DELETE_USER_PHOTOS_MESSAGE"
+msgstr "Are you sure you want to delete this Picture?"
+
+msgid "DSP_DELETE_SAVE_SEARCH_MESSAGE"
+msgstr "Are you sure you want to delete?"
+
+msgid "DSP_DELETE_FAVOURATE_MEMBER_MESSAGE"
+msgstr "Are you sure you want to delete?"
+
+msgid "DSP_APPROVE_FRIEND_REQUEST_MESSAGE"
+msgstr "Are you sure you want to Approve the selected friend request?"
+
+msgid "DSP_REJECT_FRIEND_REQUEST_MESSAGE"
+msgstr "Are you sure you want to Reject the selected friend request?"
+
+msgid "DSP_DELETE_FRIEND_FROM_LIST_MESSAGE"
+msgstr "Are you sure you want to Delete the selected Member?"
+
+msgid "DSP_DELETE_EMAIL_MESSAGE"
+msgstr "Are you sure you want to Delete this email?"
+
+msgid "DSP_DELETE_WINK_MESSAGE"
+msgstr "Are you sure you want to Delete this wink?"
+
+msgid "DSP_DELETE_AUDIO_MESSAGE"
+msgstr "Are you sure you want to delete this Audio file?"
+
+msgid "DSP_DELETE_VIDEO_MESSAGE"
+msgstr "Are you sure you want to delete this Video?"
+
+msgid "DSP_DELETE_BLOG_MESSAGE"
+msgstr "Are you sure you want to delete this Blog?"
+
+msgid "DSP_UPDATE_BLOG_MESSAGE"
+msgstr "Are you sure you want to update this Blog?"
+
+msgid "DSP_MEMBERSHIPS_DESCRIPTION"
+msgstr "Description"
+
+msgid "DSP_LIMIT_PROFILE_VIEW_MODULE"
+msgstr "Limit Profile View"
+
+msgid "DSP_SELECT_LIMIT_PROFILE_VIEW_TEXT"
+msgstr "Select ON to activate the Limit Profile View mode."
+
+msgid "DSP_NO_OF_PROFILE_VIEW"
+msgstr "Number of profiles"
+
+msgid "DSP_PAYPAL_TEXT"
+msgstr "Your membership plan is being processed and you will now be redirected to PayPal."
+
+msgid "DSP_REGISTER_REDIRECT_MODULE"
+msgstr "Register Redirect"
+
+msgid "DSP_SELECT_REGISTER_REDIRECT_TEXT"
+msgstr "Select ON to activate the Register Redirect mode."
+
+msgid "DSP_REDIRECT_URL"
+msgstr "URL"
+
+msgid "DSP_MARKETING_HEADER_SEO"
+msgstr "SEO"
+
+msgid "DSP_MARKETING_HEADER_EDATINGMOZ"
+msgstr "eDatingMoz"
+
+msgid "DSP_MOBILE_MODE"
+msgstr "Mobile"
+
+msgid "DSP_SELECT_MOBILE_TEXT"
+msgstr "Select ON to activate the Mobile Mode. Depreciated Soon. "
+
+msgid "DSP_GUEST_LIMIT_PROFILE_VIEW_MODULE"
+msgstr "Guest Limit Profile"
+
+msgid "DSP_SELECT_GUEST_LIMIT_PROFILE_VIEW_TEXT"
+msgstr "Select ON to activate the Guest Limit Profile View mode."
+
+msgid "DSP_ADD_NEW_LANGUAGE"
+msgstr "Add New Language"
+
+msgid "DSP_LANGUAGE_NAME"
+msgstr "Language Name"
+
+msgid "DSP_CHARSET"
+msgstr "Charset"
+
+msgid "DSP_IMPORT_LANGUAGE_FILE"
+msgstr "Import Language File"
+
+msgid "DSP_FLAG_IMAGE"
+msgstr "Flag Image"
+
+msgid "DSP_ADD"
+msgstr "Add"
+
+msgid "DSP_DOWNLOAD_FLAG_FIRST"
+msgstr "Download Flag First"
+
+msgid "DSP_PLEASE_LANGUAGE_NAME"
+msgstr "Please enter language name!"
+
+msgid "DSP_PLEASE_SELECT_IMAGE"
+msgstr "Please select image!"
+
+msgid "DSP_PLEASE_SELECT_LANGUAGE_FILE"
+msgstr "Please select language file!"
+
+msgid "DSP_USER_UNKNOWN_EXTENSION_FOR_IMAGE"
+msgstr "Unknown extension for image!"
+
+msgid "DSP_USER_IS_TOO_LARGE_PLEASE_REDUCE_UR_IMAGE_BELOW"
+msgstr "Image is too large please reduce flag image below "
+
+msgid "DSP_MINIMUM"
+msgstr "Minimum "
+
+msgid "DSP_MAXIMUM"
+msgstr "Maximum "
+
+msgid "DSP_USER_DIMENSION_IS_REQUIRED"
+msgstr " Dimension is required for image."
+
+msgid "DSP_USER_KB"
+msgstr "KB"
+
+msgid "DSP_DOWNLOAD_LANGUAGE_FILE"
+msgstr "Download Language File and Translate Before Importing"
+
+msgid "DSP_LANGUAGE_NAME_ALREADY_EXIST"
+msgstr "Language name already exist!"
+
+msgid "DSP_UPLOAD_ONLY_CSV_FILE"
+msgstr "Please upload only csv file!"
+
+msgid "DSP_ARE_YOU_SURE_TO_DELETE_IT"
+msgstr "Are you sure to delete it?"
+
+msgid "DSP_PLEASE_SELECT_LANGUAGE"
+msgstr "Please select language!"
+
+msgid "DSP_PLEASE_ENTER_CODE"
+msgstr "Please enter code!"
+
+msgid "DSP_SELECT_LANGUAGE"
+msgstr "Select Language"
+
+msgid "DSP_REGISTER_GENDER"
+msgstr "Gender"
+
+msgid "DSP_BIRTH_DATE"
+msgstr "Birth Date"
+
+msgid "DSP_CONFIRM_EMAIL_ADDRESS"
+msgstr "Confirm Email"
+
+msgid "DSP_EMAIL_FIELDS_ARE_NOT_SAME"
+msgstr "Provided emails are not same. Please fill again."
+
+msgid "DSP_AGREE_TERMS_AND_CONDITIONDS"
+msgstr "Please accept Terms and Conditions."
+
+msgid "DSP_GATEWAYS_AUTHORIZE_LOGIN_ID"
+msgstr "Login ID"
+
+msgid "DSP_GATEWAYS_AUTHORIZE_TRANSACTION_ID"
+msgstr "Transaction ID"
+
+msgid "DSP_GATEWAYS_AUTHORIZE_HASH"
+msgstr "MD5 Hash"
+
+msgid "DSP_SELECT_PAYMENT_GATEWAYS"
+msgstr "Select Payment Gateway"
+
+msgid "DSP_GATEWAYS_CREDIT_CARD_NO"
+msgstr "Credit Card Number"
+
+msgid "DSP_GATEWAYS_EXPIRATION_DATE"
+msgstr "Expiration Date"
+
+msgid "DSP_GATEWAYS_CCV"
+msgstr "CCV"
+
+msgid "DSP_GATEWAYS_FIRST_NAME"
+msgstr "First Name"
+
+msgid "DSP_GATEWAYS_LAST_NAME"
+msgstr "Last Name"
+
+msgid "DSP_GATEWAYS_ADDRESS"
+msgstr "Address"
+
+msgid "DSP_GATEWAYS_STATE"
+msgstr "State"
+
+msgid "DSP_GATEWAYS_ZIP"
+msgstr "Zip"
+
+msgid "DSP_GATEWAYS_SUBMIT"
+msgstr "Submit"
+
+msgid "DSP_GATEWAYS_CANCEL"
+msgstr "Cancel"
+
+msgid "DSP_GATEWAYS_NOTE"
+msgstr "<b>Please Note:</b> We do not store your credit card information."
+
+msgid "DSP_GATEWAYS_MODE"
+msgstr "Gateways"
+
+msgid "DSP_SELECT_GATEWAYS_TEXT"
+msgstr "Select ON to activate the Gateways mode."
+
+msgid "DSP_GAYEWAYS_STATUS"
+msgstr "Status"
+
+msgid "DSP_LIMIT_PROFILE_MESSAGE"
+msgstr "You have reached the limit of profile views. Please upgrade your membership plan."
+
+msgid "DSP_IMAGE_CROP_MODE"
+msgstr "Image Crop Tool"
+
+msgid "DSP_SELECT_IMAGE_CROP_TEXT"
+msgstr "Select ON to activate the image crop mode."
+
+msgid "DSP_ACCOUNTING_QUICKSTAT_SETTING"
+msgstr "Quick Stats"
+
+msgid "DSP_ACCOUNTING_THIS_WEEK_SETTING"
+msgstr "This Week"
+
+msgid "DSP_ACCOUNTING_PROFILES_SETTING"
+msgstr "Profiles"
+
+msgid "DSP_ACCOUNTING_MEMBERSHIPS_SETTING"
+msgstr "Memberships"
+
+msgid "DSP_REPORT_PROFILE_TEXT_MESSAGE"
+msgstr "A user has reported the following profile. Please check the profile. "
+
+msgid "DSP_IP_BLACKLIST_TEXT"
+msgstr "Your IP is blacklisted by admin"
+
+msgid "DSP_TOOLS_CHAT"
+msgstr "Logs"
+
+msgid "DSP_TOOLS_CHAT_LOGS"
+msgstr "Clear Group Chat Log"
+
+msgid "DSP_TOOLS_CHAT_LOGS_CLEAR_TEXT"
+msgstr "Chat Logs Cleared."
+
+msgid "DSP_MENU_CHAT"
+msgstr "Chat"
+
+msgid "DSP_CHAT_MODE"
+msgstr "Group Chat Mode"
+
+msgid "DSP_SELECT_CHAT_MODE_TEXT"
+msgstr "Select ON to activate the Chat mode."
+
+msgid "DSP_ACCOUNTING_HAPPENING_THIS_WEEK_SETTING"
+msgstr "This Week"
+
+msgid "DSP_MEDIA_HEADER_COMMENTS"
+msgstr "Comments"
+
+msgid "DSP_MIDDLE_TAB_COMMENTS"
+msgstr "Comments"
+
+msgid "DSP_COMMENTS_MODE"
+msgstr "Comments"
+
+msgid "DSP_SELECT_COMMENTS_MODE_TEXT"
+msgstr "Select ON to activate the Comments mode."
+
+msgid "DSP_STATUS_UPDATE_IN_HOURS_MSG"
+msgstr "Please allow 24 hours for profile approval."
+
+msgid "DSP_UPDATE_STATUS_MESSAGE"
+msgstr "Your status has been updated!"
+
+msgid "DSP_STATUS_UPDATE"
+msgstr "Status Update:"
+
+msgid "DSP_MY_STATUS"
+msgstr "My Status:"
+
+msgid "DSP_DELETE_COMMENT_MESSAGE"
+msgstr "Are you sure you want to delete this Comment?"
+
+msgid "DSP_NOT_LOGGEDIN__COMMENT_MESSAGE"
+msgstr "You must be logged in to comment"
+
+msgid "DSP_ZIPCODE_IMPORT"
+msgstr "Import Zip Codes"
+
+msgid "DSP_IM_SOLUTION"
+msgstr "IM Solution:"
+
+msgid "DSP_FLASHCHAT_SCRIPT"
+msgstr "FlashChat Script"
+
+msgid "DSP_INTERNAL_ERROR"
+msgstr "There is some internal error ,please contact the admin."
+
+msgid "DSP_GATEWAYS_PRO_API_PASSWORD"
+msgstr "API Password"
+
+msgid "DSP_GATEWAYS_PAYPAL_ADVANCE_UNAME"
+msgstr "Paypal Advance User Name"
+
+msgid "DSP_GATEWAYS_PRO_API_UNAME"
+msgstr "API User Name"
+
+msgid "DSP_GATEWAYS_PAYPAL_ADVANCE_PASSWORD"
+msgstr "Paypal Advance Password"
+
+msgid "DSP_GATEWAYS_PRO_API_SIGNATURE"
+msgstr "API Signature"
+
+msgid "DSP_ADDRESS_TWO"
+msgstr "Address-2"
+
+msgid "DSP_ADDRESS_ONE"
+msgstr "Address-1"
+
+msgid "DSP_EXPIRATION_MONTH"
+msgstr "Expiration Month(mm)"
+
+msgid "DSP_EXPIRATION_YEAR"
+msgstr "Expiration Year(yyyy)"
+
+msgid "DSP_CREDIT_CARD_TYPE"
+msgstr "Credit Card"
+
+msgid "DSP_STANDARD_MEMBER"
+msgstr "Standard Member"
+
+msgid "DSP_PREMIUM_MEMBER"
+msgstr "Premium Member"
+
+msgid "DSP_PREMIUM_MEMBER_TEXT"
+msgstr "Premium Membership <br /> Expires in [D] Days"
+
+msgid "DSP_CARD_TYPE_DISCOVER"
+msgstr "Discover"
+
+msgid "DSP_CARD_TYPE_AMEX"
+msgstr "Amex"
+
+msgid "DSP_CARD_TYPE_MASTERCARD"
+msgstr "MasterCard"
+
+msgid "DSP_CARD_TYPE_VISA"
+msgstr "Visa"
+
+msgid "DSP_UPGRADE_PAYPAL_BTN"
+msgstr "Upgrade / PayPal"
+
+msgid "DSP_UPGRADE_CREDITCARD_BTN"
+msgstr "Upgrade / Credit Card"
+
+msgid "DSP_UPGRADE_PAYPALPRO_BTN"
+msgstr "Upgrade / PayPal Pro"
+
+msgid "DSP_UPGRADE_PAYPALADV_BTN"
+msgstr "Upgrade/Paypal Advance"
+
+msgid "DSP_QUICK_SEARCH"
+msgstr "Quick search"
+
+msgid "DSP_MUST_LOGGEDIN_TEXT"
+msgstr "You must be logged in to chat"
+
+msgid "DSP_STEALTH_MODE"
+msgstr "Stealth Mode"
+
+msgid "DSP_PREMIUM_MEMBER_EXPIRED_MESSAGE_A"
+msgstr "Your Premimum Account has been expired."
+
+msgid "DSP_UPGRADE_HERE"
+msgstr "Upgrade Here."
+
+msgid "DSP_PREMIUM_MEMBER_COMMENT_MESSAGE"
+msgstr "You must be a premium member to comment."
+
+msgid "DSP_RATE_RESULTS"
+msgstr "Rate Results"
+
+msgid "DSP_YOU_RATED"
+msgstr "You Rated"
+
+msgid "DSP_RATE_HIGHEST_SCORE"
+msgstr "Highest Score"
+
+msgid "DSP_RATE_AVG_SCORE"
+msgstr "Average Score"
+
+msgid "DSP_USER_RATE_PROFILE"
+msgstr "Rate Profile"
+
+msgid "DSP_VOTES"
+msgstr "Votes"
+
+msgid "DSP_RATING"
+msgstr "Rating"
+
+msgid "DSP_PAYPAL_REDIRECT_TEXT"
+msgstr "If you are not automatically redirected to paypal within 5 seconds..."
+
+msgid "DSP_PAYPAL_ADV_TRYAGAIN_TEXT"
+msgstr "Please try again!"
+
+msgid "DSP_PAYMENT_PROCESSING"
+msgstr "Processing Payment..."
+
+msgid "DSP_PAYPAL_ADV_PROCESS_TEXT_A"
+msgstr "Please wait,Your membership plan is being processed and"
+
+msgid "DSP_PAYPAL_ADV_PROCESS_TEXT_B"
+msgstr "and"
+
+msgid "DSP_PAYPAL_ADV_PROCESS_TEXT_C"
+msgstr "You will be redirected to the paypal website."
+
+msgid "DSP_MAKE_PRIVATE"
+msgstr "Private:"
+
+msgid "DSP_MATCH_ALERT_ACTIVE"
+msgstr "Active"
+
+msgid "DSP_MATCH_ALERT_FREQUENCY"
+msgstr "Frequency"
+
+msgid "DSP_OPTION_DAILY"
+msgstr "Daily"
+
+msgid "DSP_OPTION_WEEKLY"
+msgstr "Weekly"
+
+msgid "DSP_OPTION_MONTHLY"
+msgstr "Monthly"
+
+msgid "DSP_MATCH_ALERT_NOTE"
+msgstr "<b>Note:</b> Matches are sent to the email you registered with. If you don't recieve them, please check your spam folder."
+
+msgid "DSP_TO"
+msgstr "to:"
+
+msgid "DSP_MILES_ZIP_CODES"
+msgstr "Miles from Zip Code:"
+
+msgid "DSP_UR_SUBSCRIPTION_PROCEDURE_HAS_FAILED"
+msgstr "Sorry Your subscription procedure has failed. Please try again!"
+
+msgid "DSP_TRANSACTION_NOT_COMPLETED"
+msgstr "Sorry your transaction could not completed successfully. Please try again!"
+
+msgid "DSP_YOUR_TRANSACTION_HAS_CANCLED"
+msgstr "Your transaction has been canceled."
+
+msgid "DSP_YOUR_TANSACTION_NOT_COMPLETED_SUCCESSFULLY"
+msgstr "Sorry Your transaction could not completed successfully"
+
+msgid "DSP_MEMBERSHIP_HAS_CANCELED"
+msgstr "Your membership is canceled successfully."
+
+msgid "DSP_MEMBERSHIP_NOT_CANCELED_TRY_AGAIN"
+msgstr "Sorry Your membership could not be canceled successfully.Please try later."
+
+msgid "DSP_YOU_DONT_HAVE_ANY_ACTIVE_MEMBERSHIP"
+msgstr "You do not have any active membership."
+
+msgid "DSP_CANCEL_MY_MEMBERSHIP"
+msgstr "CANCEL MY MEMBERSHIP"
+
+msgid "DSP_R_U_SURE_TO_CANCEL_MEMBERSHIP"
+msgstr "Are you sure you want to cancel the membership"
+
+msgid "DSP_THANKYOU_FOR_UR_PAYMENT"
+msgstr "Thank you for your payment!"
+
+msgid "DSP_PLAN_MEMBER"
+msgstr "plan member."
+
+msgid "DSP_U_ARE_ALREADY_A"
+msgstr "You are already a "
+
+msgid "DSP_GATEWAY_PROVIDE_RECURRING_BILLING_WITH_ADV"
+msgstr "This gateway will provide recurring billing with paypal advance."
+
+msgid "DSP_EMAIL_FROM"
+msgstr "From"
+
+msgid "DSP_EMAIL_TO"
+msgstr "To"
+
+msgid "DSP_EMAIL_DATE"
+msgstr "Date"
+
+msgid "DSP_EMAIL_WROTE"
+msgstr "Wrote"
+
+msgid "DSP_USER_PROFILE_VIEWS"
+msgstr "Profile Views"
+
+msgid "DSP_USER_WINKS"
+msgstr "Winks"
+
+msgid "DSP_USER_FAVOURITES"
+msgstr "Favorites"
+
+msgid "DSP_USER_FRIENDS"
+msgstr "Friends"
+
+msgid "DSP_JANUARY"
+msgstr "January"
+
+msgid "DSP_FABRUARY"
+msgstr "February"
+
+msgid "DSP_MARCH"
+msgstr "March"
+
+msgid "DSP_APRIL"
+msgstr "April"
+
+msgid "DSP_MAY"
+msgstr "May"
+
+msgid "DSP_JUNE"
+msgstr "June"
+
+msgid "DSP_JULY"
+msgstr "July"
+
+msgid "DSP_AUGUST"
+msgstr "August"
+
+msgid "DSP_SEPTEMBER"
+msgstr "September"
+
+msgid "DSP_OCTOBER"
+msgstr "October"
+
+msgid "DSP_NOVEMBER"
+msgstr "November"
+
+msgid "DSP_DECEMBER"
+msgstr "December"
+
+msgid "DSP_PHOTO_MAKE_PRIVATE"
+msgstr "Make Private"
+
+msgid "DSP_OPTION_DETAILED"
+msgstr "Detailed"
+
+msgid "DSP_OPTION_ALL"
+msgstr "All"
+
+msgid "DSP_OPTION_WINK"
+msgstr "Wink"
+
+msgid "DSP_OPTION_EMAILS"
+msgstr "Emails"
+
+msgid "DSP_OPTION_FRIEND"
+msgstr "Friend"
+
+msgid "DSP_OPTION_FAVORITED"
+msgstr "Favorited"
+
+msgid "DSP_FILTER_BUTTON"
+msgstr "Filter"
+
+msgid "DSP_CLICK_HERE_LINK"
+msgstr "Click here"
+
+msgid "DSP_TERMS_TEXT"
+msgstr "I agree to the <a href=[L] target=_blank>Terms and Conditions</a>."
+
+msgid "DSP_CAPTCHA"
+msgstr "Captcha:"
+
+msgid "DSP_ASTROLOGICAL_SIGNS"
+msgstr "Astrological Signs"
+
+msgid "DSP_ASTROLOGICAL_SIGNS_TEXT"
+msgstr "Select ON to activate the Astrological Signs."
+
+msgid "DSP_GATEWAYS_LAYOUT_NUMBER"
+msgstr "Layout Number"
+
+msgid "DSP_GATEWAYS_BANK_DROPDOWN_LANGUAGE"
+msgstr "Bank List Language"
+
+msgid "DSP_UPGRADE_IDEAL_BTN"
+msgstr "Upgrade / iDEAL"
+
+msgid "DSP_TOOLS_CHAT_ONE_LOGS"
+msgstr "Clear One on One Chat Log"
+
+msgid "DSP_SELECT_CHAT_ONE_MODE_TEXT"
+msgstr "Select ON to activate the One on One Chat mode."
+
+msgid "DSP_CHAT_ONE_MODE"
+msgstr "One on One Chat"
+
+msgid "DSP_CHAT_ONLINE"
+msgstr "Online"
+
+msgid "DSP_CHAT_OFFLINE"
+msgstr "Offline"
+
+msgid "DSP_PREMIUM_MEMBER_CHAT_MESSAGE_A"
+msgstr "You must be a premium member to use the chat feature."
+
+msgid "DSP_SEND_CHAT_REQUEST"
+msgstr "Send Chat Request"
+
+msgid "DSP_POPUP_CHAT"
+msgstr "Chat"
+
+msgid "DSP_POPUP_CHAT_REQUEST"
+msgstr "Chat Request"
+
+msgid "DSP_SETTINGS_HEADER_UPDATE_DATABASE"
+msgstr "Update Database"
+
+msgid "DSP_SETTINGS_UPDATE_DATABASE_TEXT"
+msgstr "Please Update Your Database"
+
+msgid "DSP_ONLINE_WIDGET_TEXT"
+msgstr "Online"
+
+msgid "DSP_DATABASE_UP_TO_DATE"
+msgstr "Your Database is up-to-date."
+
+msgid "DSP_DELETE_VIRTUAL_GIFT_MESSAGE"
+msgstr "Are you sure you want to delete this Virtual gift?"
+
+msgid "DSP_SEND_IM_REQUEST"
+msgstr "Send IM Request"
+
+msgid "DSP_SEND_SKYPE"
+msgstr "Send Skype"
+
+msgid "DSP_OPTION_ON"
+msgstr "On"
+
+msgid "DSP_OPTION_OFF"
+msgstr "Off"
+
+msgid "DSP_VIRTUAL_GIFTS_MODE"
+msgstr "Virtual Gifts"
+
+msgid "DSP_VIRTUAL_GIFTS_MODE_TEXT"
+msgstr "Select ON to activate the Virtual Gifts."
+
+msgid "DSP_MAX_VIRTUAL_GIFTS"
+msgstr "Max Gifts"
+
+msgid "DSP_NOTIFICATION_SETTING"
+msgstr "Notification"
+
+msgid "DSP_NOTIFICATION_SETTING_TEXT"
+msgstr "Select ON to activate the Notification."
+
+msgid "DSP_NOTIFICATION_POSITION_SETTING"
+msgstr "Notification Position"
+
+msgid "DSP_OPTION_LEFT_TOP"
+msgstr "Left Top"
+
+msgid "DSP_OPTION_RIGHT_TOP"
+msgstr "Right Top"
+
+msgid "DSP_OPTION_LEFT_BOTTOM"
+msgstr "Left Bottom"
+
+msgid "DSP_OPTION_RIGHT_BOTTOM"
+msgstr "Right Bottom"
+
+msgid "DSP_NOTIFICATION_POSITION_SETTING_TEXT"
+msgstr "Select postion of the Notification."
+
+msgid "DSP_NOTIFICATION_TIME_SETTING"
+msgstr "Notification Time"
+
+msgid "DSP_NOTIFICATION_TIME_SETTING_TEXT"
+msgstr "Select duration of the Notification (in Seconds) ."
+
+msgid "DSP_HOME_TAB_MEMBERSHIP"
+msgstr "Membership:"
+
+msgid "DSP_HOME_MEMBERSHIP_FREE_TEXT"
+msgstr "The site is currently Free. There is no need to upgrade."
+
+msgid "DSP_HOME_MEMBERSHIP_PREMIUM_TEXT_A"
+msgstr "You're currently a Premium Member under <br />the"
+
+msgid "DSP_HOME_MEMBERSHIP_PREMIUM_TEXT_B"
+msgstr "Plan."
+
+msgid "DSP_HOME_MEMBERSHIP_PREMIUM_TEXT_C"
+msgstr "Your Monthly Membership expires on"
+
+msgid "DSP_HOME_MEMBERSHIP_STANDARD_TEXT"
+msgstr "You're currently a Standard Member. Please upgrade to enjoy all the benefits of a Premium Membership Plan."
+
+msgid "DSP_HOME_TAB_HOME"
+msgstr "Home"
+
+msgid "DSP_HOME_TAB_MEMBERSHIPS"
+msgstr "Membership"
+
+msgid "DSP_MIDDLE_TAB_NEWS_FEED"
+msgstr "News Feed"
+
+msgid "DSP_MIDDLE_TAB_VIRTUAL_GIFTS"
+msgstr "Gifts"
+
+msgid "DSP_NEWS_FEED_STATUS"
+msgstr "just added new status update."
+
+msgid "DSP_NEWS_FEED_LOGIN"
+msgstr "just logged in."
+
+msgid "DSP_NEWS_FEED_LOGOUT"
+msgstr "just logged off."
+
+msgid "DSP_NEWS_FEED_VIDEO"
+msgstr "just added new video."
+
+msgid "DSP_NEWS_FEED_AUDIO"
+msgstr "just added new audio."
+
+msgid "DSP_NEWS_FEED_PHOTO"
+msgstr "just added new photo."
+
+msgid "DSP_NEWS_FEED_PROFILE_PHOTO"
+msgstr "just added new profile photo."
+
+msgid "DSP_NEWS_FEED_FRIENDS"
+msgstr "Friends"
+
+msgid "DSP_NEWS_FEED_NEWS"
+msgstr "News Feed"
+
+msgid "DSP_NO_USER_ONLINE"
+msgstr "No user is online"
+
+msgid "DSP_VIRTUAL_GIFTS_MAX_MSG"
+msgstr "User has received the maximum number of virtual gifts."
+
+msgid "DSP_VIRTUAL_GIFTS_LOGIN_MSG"
+msgstr "You must log in to send virtual gifts."
+
+msgid "DSP_GIFT_SENT_BY"
+msgstr "Sent by"
+
+msgid "DSP_YEARS_OLD_TEXT"
+msgstr "year old"
+
+msgid "DSP_FROM_TEXT"
+msgstr "from"
+
+msgid "DSP_NEWS_SEND_EMAIL"
+msgstr "just sent you an email."
+
+msgid "DSP_NEWS_ADD_FAVOURITES"
+msgstr "just added you as a favorite."
+
+msgid "DSP_NEWS_ADD_FRIEND"
+msgstr "just sent you a friend request."
+
+msgid "DSP_NEWS_VIEW_PROFILE"
+msgstr "just viewed your profile."
+
+msgid "DSP_NEWS_SEND_WINK"
+msgstr "just sent you a wink."
+
+msgid "DSP_TERMS_A"
+msgstr "I agree to the"
+
+msgid "DSP_TERMS_B"
+msgstr "Terms & Conditions"
+
+msgid "DSP_MEET_ME_MODE"
+msgstr "Meet Me"
+
+msgid "DSP_MEET_ME_MODE_TEXT"
+msgstr "Select ON to activate the Meet Me Feature."
+
+msgid "DSP_MEET_ME"
+msgstr "Meet Me"
+
+msgid "DSP_LOGIN_PASSWORD"
+msgstr "Password"
+
+msgid "DSP_ABOUT"
+msgstr "About"
+
+msgid "DSP_MEET_ME_QUESTION"
+msgstr "Want to meet this user?"
+
+msgid "DSP_MEET_ME_NO_MORE"
+msgstr "No more members available to meet"
+
+msgid "DSP_TOOLS_MEET_ME_LOGS"
+msgstr "Clear Meet Me Log"
+
+msgid "DSP_CHAT_LOG_CLEAR_TEXT"
+msgstr "Chat Logs Cleared."
+
+msgid "DSP_CHAT_ONE_LOG_CLEAR_TEXT"
+msgstr "One on One Chat Logs are Cleared."
+
+msgid "DSP_MEET_ME_LOG_CLEAR_TEXT"
+msgstr "Meet Me Logs Cleared."
+
+msgid "DSP_LOGOUT"
+msgstr "Logout"
+
+msgid "DSP_RELOAD"
+msgstr "Reload"
+
+msgid "DSP_TRACKER"
+msgstr "Tracker"
+
+msgid "DSP_FAVOURITE"
+msgstr "Favourite"
+
+msgid "DSP_PHOTOS"
+msgstr "Photos"
+
+msgid "DSP_SOUND"
+msgstr "Sound"
+
+msgid "DSP_UPGRADE"
+msgstr "Upgrade"
+
+msgid "DSP_CANT_GIFT_SEND_MSG"
+msgstr "You can not send yourself a gift"
+
+msgid "DSP_BACK"
+msgstr "Back"
+
+msgid "DSP_PROFILE_INFO"
+msgstr "Profile Info"
+
+msgid "DSP_LOCATION"
+msgstr "Location"
+
+msgid "DSP_TOOLS_NOTIFICATIONS"
+msgstr "Clear Notifications"
+
+msgid "DSP_TOOLS_NOTIFICATIONS_CLEAR_TEXT"
+msgstr "Notifications Cleared."
+
+msgid "DSP_ADD_FRIEND"
+msgstr "Add Friend"
+
+msgid "DSP_TOOLS_GENDER"
+msgstr "Gender"
+
+msgid "DSP_EDIT_GENDER"
+msgstr "Edit"
+
+msgid "DSP_DELETE_GENDER"
+msgstr "Delete"
+
+msgid "DSP_UPDATE"
+msgstr "Update"
+
+msgid "DSP_CHAT_USER_BLOCKED_TEXT"
+msgstr "Sorry, you have been blocked by this user."
+
+msgid "DSP_TOOLS_VIRTUAL_FLIRTS"
+msgstr "Virtual Gifts"
+
+msgid "DSP_TOOLS_LANGUAGE_TAB_SEARCH"
+msgstr "Search"
+
+msgid "DSP_TOOLS_LANGUAGE_TAB_ADD_TEXT"
+msgstr "Add Text"
+
+msgid "DSP_TOOLS_LANGUAGE_TAB_ADD_LANGUAGE"
+msgstr "Add Language"
+
+msgid "DSP_TOOLS_LANGUAGE_SAVE_LANGUAGE"
+msgstr "Save"
+
+msgid "BLOG_UPDATE_SUCCESS"
+msgstr "Blog updated successfully."
+
+msgid "DSP_BLOG_ADDED_SUCCESS"
+msgstr "Blog added successfully."
+
+msgid "DSP_DZONIA_REGISTER_HEADING_TEXT"
+msgstr "Join Free"
+
+msgid "DSP_DZONIA_REGISTER_BTN_TEXT"
+msgstr "JOIN FREE"
+
+msgid "DSP_DZONIA_MEMBERS_HEADING_TEXT"
+msgstr "Members"
+
+msgid "DSP_REFRESH_RATE"
+msgstr "Refresh Rate"
+
+msgid "DSP_REFRESH_RATE_TEXT"
+msgstr "Enter duration for Refresh Features"
+
+msgid "DSP_FIELDS_ARE_MANDATORY"
+msgstr "Fields are mandatory"
+
+msgid "DSP_BROWSE"
+msgstr "Browse"
+
+msgid "DSP_BROWSE_WIDGET"
+msgstr "DSP Browse"
+
+msgid "DSP_BROWSE_WIDGET_HEADLINE"
+msgstr "Pick what you want to show:"
+
+msgid "DSP_BROWSE_BY_SEX"
+msgstr "By Sex"
+
+msgid "DSP_BROWSE_BY_AGE"
+msgstr "By Age"
+
+msgid "DSP_PAGINATION_COLOR"
+msgstr "Pagination Color"
+
+msgid "DSP_PAGINATION_COLOR_TEXT"
+msgstr "Enter 6 digit color code for Pagination."
+
+msgid "DSP_CREDIT_MODE"
+msgstr "Credits"
+
+msgid "DSP_CREDIT_MODE_TEXT"
+msgstr "Select ON to activate the Credits mode."
+
+msgid "DSP_SETTINGS_HEADER_CREDITS"
+msgstr "Credits"
+
+msgid "DSP_SETTINGS_HEADER_CREDITS_USAGE"
+msgstr "Credits Usage"
+
+msgid "DSP_CREDITS"
+msgstr "Credits"
+
+msgid "DSP_CREDITS_USAGE"
+msgstr "Credits Usage"
+
+msgid "DSP_CREDITS_PURCHASED"
+msgstr "Credits Purchased:"
+
+msgid "DSP_CREDITS_USED"
+msgstr "Credits Used:"
+
+msgid "DSP_RESET_BUTTON"
+msgstr "Reset"
+
+msgid "DSP_EXTEND_BUTTON"
+msgstr "Extend"
+
+msgid "DSP_REMOVE_BUTTON"
+msgstr "Remove"
+
+msgid "DSP_PRICE_PER_CREDIT"
+msgstr "Price Per Credit"
+
+msgid "DSP_PRICE_PER_CREDIT_TEXT"
+msgstr "This is the price per credit. Do not use the currency sign. Just put the number."
+
+msgid "DSP_EMAILS_PER_CREDIT"
+msgstr "Credit Per Emails"
+
+msgid "DSP_EMAILS_PER_CREDIT_TEXT"
+msgstr "This is the number of credits required to send per email."
+
+msgid "DSP_SAVE_CHANGES"
+msgstr "Save Changes"
+
+msgid "DSP_NOTE"
+msgstr "Note:"
+
+msgid "DSP_CREDIT_NOTE_A"
+msgstr "The number of emails a user can send per credit is based on the Emails per Credit you setup."
+
+msgid "DSP_CREDIT_NOTE_B"
+msgstr "For example, if you set the price at $1 dollar and set the Emails per Credit to 4 then when that"
+
+msgid "DSP_CREDIT_NOTE_C"
+msgstr "User buys 1 credit, he can send 4 emails. After that he has to buy more credits or purchase a membership."
+
+msgid "DSP_CREDIT_HOMEPAGE_TEXT"
+msgstr "You currently have [m] credits left."
+
+msgid "DSP_BUY_CREDITS"
+msgstr "Buy Credits"
+
+msgid "DSP_PURCHASE_CREDITS"
+msgstr "Purchase Credits"
+
+msgid "DSP_PER_CREDIT"
+msgstr "Per Credit"
+
+msgid "DSP_ABOUT_ME_TEXT"
+msgstr "About Me Text"
+
+msgid "DSP_MOBILE_LOGO_PNG"
+msgstr "Mobile Logo (png)"
+
+msgid "DSP_MOBILE_DATING_APP_SETTINGS"
+msgstr "Mobile Dating App Settings"
+
+msgid "DSP_TERM_TEXT"
+msgstr "Terms Text"
+
+msgid "DSP_GALLERIES"
+msgstr "Galleries"
+
+msgid "DSP_ARE_U_SURE_TO_BLOCK_THIS_MEMBER"
+msgstr "Are you sure you want to block this member?"
+
+msgid "DSP_AQUARIUS"
+msgstr "aquarius"
+
+msgid "DSP_PISCES"
+msgstr "pisces"
+
+msgid "DSP_ARIES"
+msgstr "aries"
+
+msgid "DSP_TAURUS"
+msgstr "taurus"
+
+msgid "DSP_GEMINI"
+msgstr "gemini"
+
+msgid "DSP_CANCER"
+msgstr "cancer"
+
+msgid "DSP_LEO"
+msgstr "leo"
+
+msgid "DSP_VERGO"
+msgstr "vergo"
+
+msgid "DSP_LIBRA"
+msgstr "libra"
+
+msgid "DSP_SCORPIO"
+msgstr "scorpio"
+
+msgid "DSP_SAGITTARIUS"
+msgstr "sagittarius"
+
+msgid "DSP_CAPRICORN"
+msgstr "capricorn"
+
+msgid "DSP_CHECK_EMAIL_CONFIRMATION_LINK_TEXT"
+msgstr "Please check your e-mail for the confirmation link."
+
+msgid "DSP_INVALID_USER_EMAIL_TEXT"
+msgstr "Invalid username or e-mail"
+
+msgid "DSP_LOST_PASSWORD_INSTRUCTIONS"
+msgstr "Please enter your username or email address. You will receive a link to create a new password via email."
+
+msgid "DSP_USERNAME__EMAIL"
+msgstr "Username or Email"
+
+msgid "DSP_PASSWORD_CHARACTER_TEXT"
+msgstr "The password should be at least seven characters long."
+
+msgid "DSP_PASSWORD_NOT_MATCH_TEXT"
+msgstr "password not match."
+
+msgid "DSP_PASSWORD_CHANGED_SUCCESSFULLY_TEXT"
+msgstr "Password has been changed successfully."
+
+msgid "DSP_ENTER_PASSWORD_BELOW_TEXT"
+msgstr "Enter your new password below."
+
+msgid "DSP_GET_PASSWORD"
+msgstr "Get Password"
+
+msgid "DSP_RESET_PASSWORD"
+msgstr "Reset Password"
+
+msgid "DSP_PASSWOR_NOTE"
+msgstr "Note: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like !"
+
+msgid "DSP_RESET_LINK_EXPIRED_TEXT"
+msgstr "Reset password link has been expired."
+
+msgid "DSP_FOR_MOBILE_APP"
+msgstr "for mobile app"
+
+msgid "DSP_CLIENT_ID"
+msgstr "Client Id"
+
+msgid "DSP_PAYPAL_SECRET"
+msgstr "Secret"
+
+msgid "DSP_PAYPAL_NOT_SET_YET"
+msgstr "Admin paypal details are not set yet. Please try again later."
+
+msgid "DSP_UPDATE_PROFILE_BEFORE_SEND_WINK_MSG"
+msgstr "Please update Profile Before Send a wink."
+
+msgid "DSP_UPGRADE_NOW"
+msgstr "Upgrade Now"
+
+msgid "DSP_MARKETING_HEADER_MATCH_NINJA"
+msgstr "MatchNinja"
+
+msgid "DSP_SERIAL_CODE"
+msgstr "Serial Code"
+
+msgid "DSP_MATCH_DATING_SERIAL_TEXT"
+msgstr "Get your Serial Code from"
+
+msgid "DSP_MATCH_DATING_SERIAL_TEXT_A"
+msgstr "MatchNinja.com"
+
+msgid "DSP_SEARCH_SETTINGS"
+msgstr "Search Settings"
+
+msgid "DSP_MATCH_PROFILE_SHOW_TEXT"
+msgstr "Which Profiles do you want to show?"
+
+msgid "DSP_MATCH_NOTE_TEXT"
+msgstr "Note: You must have Active  MatchNinja.com Account for your profile results to show up in the MatchNinja.com Dating Profile Search Site. <br />Visit MatchNinja.com for maore details:"
+
+msgid "DSP_ACTIVATE"
+msgstr "Activate"
+
+msgid "DSP_TAB_COLOR"
+msgstr "Tab Color"
+
+msgid "DSP_TAB_COLOR_TEXT"
+msgstr "Enter 6 digit color code for Tabs."
+
+msgid "DSP_NON_ACTIVE_TAB_COLOR"
+msgstr "Non-Active Tab Color"
+
+msgid "DSP_NON_ACTIVE_TAB_COLOR_TEXT"
+msgstr "Enter 6 digit color code for Non-Active Tabs."
+
+msgid "DSP_BUTTON_COLOR"
+msgstr "Button Color"
+
+msgid "DSP_BUTTON_COLOR_TEXT"
+msgstr "Enter 6 digit color code for Buttons."
+
+msgid "DSP_FORCE_PHOTO_MODE"
+msgstr "Force Photo"
+
+msgid "DSP_SELECT_FORCE_PHOTO_MODE_TEXT"
+msgstr "Select ON to upload a photo with their profile."
+
+msgid "DSP_SEARCH_RESULT"
+msgstr "Search Results"
+
+msgid "DSP_SEARCH_RESULT_TEXT"
+msgstr "Select count of Search Result."
+
+msgid "DSP_FRONT_PAGE_RESULT_TEXT"
+msgstr "Select count of front page Result."
+
+msgid "DSP_FRONT_PAGE_RESULT"
+msgstr "Front Page Result"
+
+msgid "DSP_GUEST_HEADER_HELP"
+msgstr "Help"
+
+msgid "DSP_HELP_PAGE_CONTENT"
+msgstr "<p><strong>Home Page</strong> - This is the area that you are directed to when you first login. </p> <br> <p><strong>Happening Graph</strong> - This is what is happening this current week with your profile.</p> <br> <p><strong>Email</strong> - This is where all the emails go when you receive email from other users. From here you can check your Inbox, Sent Items, Deleted Items and Compose. The Compose will show you a dropdown of your Favorite profiles. You can't send a new email from here. To send a new email just visit a users profile.</p> <br> <p><strong>Online</strong> - Shows the users that are currently online. You can filter the online results by gender.</p> <br> <p><strong>Steal Mode</strong> - Turning Stealth Mode ON will make in invisible to other users.</p> <br> <p><strong>Profile Trending</strong> - These are the profiles that are getting the most attention. You can filter these by Favorites, Friends, Winks Sent and Emails.</p> <br> <p><strong>Who Viewed Me</strong> - These are the profiles that have viewed your profile.</p> <br> <p><strong>Who I Viewed </strong>- These are all the profiles you have viewed.</p> <br> <p><strong>View Profile</strong> - This will show you what your profile looks like to other users.</p> <br> <p><strong>Edit Profile</strong> - This lets you edit your profile and your default photo on your profile.</p> <br> <p><strong>Media</strong> - This is where you add Photo Galleries, Audio and Video files.</p> <br> <p><strong>Chat</strong> - This is the group chat room. </p> <br> <p><strong>One to One Chat</strong> - When a user is online you can send them a Chat request. The other user will receive a popup that ask them if they would like to chat. If they accept it then you're put into a One on One Chat session.</p> <br> <p><strong>Search</strong> - Search for other profiles.</p> <br> <p><strong>Advanced Search</strong> - Extend the search function by searching for specific things in a profile.</p> <br> <p><strong>Zip Code Search</strong> - Search for profiles from any number of miles from a given zip code.</p> <br> <p><strong>Saved Search</strong> - Save your searches by name so you can access them quickly.</p> <br> <p><strong>Settings / Account </strong>- Change your email address and your password here.</p> <br> <p><strong>Settings / Match Alerts</strong> - These are profile matches that you can have sent to your email automatically. You turn it on and set the criteria.</p> <br> <p><strong>Settings / Blocked </strong>- These are the profiles that you have blocked from contacting you. You can block a user from their profile view.</p> <br> <p><strong>Settings / Privacy</strong> - This is where you set who can contact you. By default, everyone can contact you.</p> <br> <p><strong>Settings / Skype</strong> - If you want to use the Skype Instant Messenger/Chat feature then you just add your Skype name and set who can contact you. Can be everyone or your friends.</p> <br> <p><strong>Settings / Upgrade Account</strong> - Upgrade your account to premium membership to get access to features like Email and Chat.</p> <br> <p><strong>Extras / Trending </strong>- Trending profiles are profiles that are getting the most attention. You can filter these results as well.</p> <br> <p><strong>Extras / Interest Cloud </strong>- When you add Interests to your profile they become searchable via the Interest Cloud area. </p> <br> <p><strong>Extras / Date Tracker</strong> - Track the people that you go out with by using the Date Tracker. On a profile there is a icon for Date Tracker. Click it and then you can keep a diary of how it went with this user.</p> <br> <p><strong>Extras / Blogs</strong> - Write articles in the blog section that will appear on your profile.</p> <br> <p><strong>Extras / Meet Me</strong> - Browse through the member profile base and click the Yes or No button and an email will be sent to that user letting them know that they would like to meet you.</p>"
+
+msgid "DSP_WINK_RECEIVED"
+msgstr "Wink Received"
+
+msgid "DSP_STORIES_MODE"
+msgstr "Stories"
+
+msgid "DSP_STORY_TITLE_ERROR"
+msgstr "Please enter story title."
+
+msgid "DSP_STORY_CONTENT_ERROR"
+msgstr "Please enter story content."
+
+msgid "DSP_ADD_NEW_STORY"
+msgstr "Add New Story"
+
+msgid "DSP_TEXT_STORY"
+msgstr "Story:"
+
+msgid "DSP_GUEST_HEADER_STORIES"
+msgstr "Stories"
+
+msgid "DSP_PAYPAL"
+msgstr "Paypal"
+
+msgid "DSP_PAYPAL_PRO"
+msgstr "Paypal Pro"
+
+msgid "DSP_CREDIT_CARD"
+msgstr "Credit Card"
+
+msgid "DSP_MILES"
+msgstr "Miles"
+
+msgid "DSP_HAPPENING_GRAPH"
+msgstr "Happening Graph"
+
+msgid "DSP_HAPPENING_GRAPH_TEXT"
+msgstr "Select ON to activate the Happening Graph."
+
+msgid "DSP_DELETE_COMMENTS_ALERT"
+msgstr "Are you sure you want to delete this comment?"
+
+msgid "DSP_NEAR_ME"
+msgstr "Near Me"
+
+msgid "DSP_SELECT_NEAR_ME_MODE_TEXT"
+msgstr "Select ON to activate the Near Me field"
+
+msgid "DSP_DZONIA_REGISTER_JOIN"
+msgstr "JOIN"
+
+msgid "DSP_ACCOUNT_SETTING_TITLE"
+msgstr "Account Setting"
+
+msgid "DSP_MATCH_ALERT_TITLE"
+msgstr "MATCH ALERT"
+
+msgid "DSP_BLOCKED_TITLE"
+msgstr "BLOCKED"
+
+msgid "DSP_NOTIFICATION_TITLE"
+msgstr "Notification"
+
+msgid "DSP_PRIVACY_SETTING_TITLE"
+msgstr "Privacy Setting"
+
+msgid "DSP_SKYPE_TITLE"
+msgstr "Skype"
+
+msgid "DSP_ZIPCODE_TITLE"
+msgstr "Zipcode"
+
+msgid "DSP_NEAR_ME_TITLE"
+msgstr "Near Me"
+
+msgid "DSP_SAVE_SEARCH_TITLE"
+msgstr "save searches"
+
+msgid "DSP_HELP_TITLE"
+msgstr "Help"
+
+msgid "DSP_NEWS_FEED_TITLE"
+msgstr "News Feed"
+
+msgid "DSP_TITLE_COLOR"
+msgstr "Title Color"
+
+msgid "DSP_TITLE_COLOR_TEXT"
+msgstr "Enter 6 digit color code for Titles."
+
+msgid "DSP_HELP_PAGE_TITLE"
+msgstr "Help Page Contents"
+
+msgid "DSP_SUBMENU_SETTINGS_MATCH_ALERTS"
+msgstr "Match alerts"
+
+msgid "DSP_USER_NAME_SHOULD_NOT_CONTAIN_SPACES"
+msgstr "Username can not have spaces."
+
+msgid "DSP_PLEASE_ENTER_USER_NAME"
+msgstr "Please Enter Username."
+
+msgid "DSP_PLEASE_ENTER_EMAIL_ADDRESS"
+msgstr "Please Enter Email address."
+
+msgid "DSP_PLEASE_ENTER_CONFIRM_EMAIL_ADDRESS"
+msgstr "Please Confirm email address."
+
+msgid "DSP_CHECK_TERM_CONDITIONS"
+msgstr "Please Check terms and conditions."
+
+msgid "DSP_ALERT"
+msgstr "Alert"
+
+msgid "DSP_MESSAGES"
+msgstr "Messages"
+
+msgid "DSP_EMPTY"
+msgstr "Empty"
+
+msgid "DSP_NO_RESULT_FOUND"
+msgstr "No result found !"
+
+msgid "DSP_JOIN_ITS_FREE"
+msgstr "JOIN IT IS FREE!"
+
+msgid "DSP_SEARCH_OUR_SINGLES"
+msgstr "Search our singles"
+
+msgid "DSP_HAPPY_STORIES"
+msgstr "Happy Stories"
+
+msgid "DSP_WELCOME_USER_NAME"
+msgstr "Welcome User Name"
+
+msgid "DSP_LATEST_BLOG"
+msgstr "Latest Blog"
+
+msgid "DSP_DAY"
+msgstr "Days"
+
+msgid "DSP_OFF"
+msgstr "OFF"
+
+msgid "DSP_ON"
+msgstr "ON"
+
+msgid "DSP_FREE_MEMBER"
+msgstr "Free Member"
+
+msgid "DSP_QUESTION_DATE_TRACKER"
+msgstr "Are you sure you want to delete this user from your date tracker?"
+
+msgid "DSP_DELETE_VIDEO"
+msgstr "Deleted Video."
+
+msgid "DSP_NOT_PREMIUM_EMAIL_MESSAGE"
+msgstr "You must be a premium member to send an email"
+
+msgid "DSP_VIRTUAL_GIFT_DELETED"
+msgstr "Virtual Gift has been Deleted"
+
+msgid "DSP_VIRTUAL_GIFT_APPROVED"
+msgstr "Virtual Gift has been Approved"
+
+msgid "DSP_MY_GIFTS"
+msgstr "My Gifts"
+
+msgid "DSP_MY_WINKS"
+msgstr "My Winks"
+
+msgid "DSP_ONLINE_MEMBER_TEXT"
+msgstr "Online Members"
+
+msgid "DSP_NO_IMAGE_UPLOADED"
+msgstr "Empty Album id/No image uploaded"
+
+msgid "DSP_OTHER_DETAILS"
+msgstr "other details"
+
+msgid "DSP_PAGE"
+msgstr "Page"
+
+msgid "DSP_READ_MORE"
+msgstr "Read More"
+
+msgid "DSP_USE_WEB_OR_ANDROID_APP_FOR_PAYMENT"
+msgstr "Use web or android app for payment"
+
+msgid "DSP_NETWORK_PROBLEM"
+msgstr "Network error has occurred please try again!"
+
+msgid "DSP_FILL_IN_ALL_FIELDS"
+msgstr " Fill in all the fields!"
+
+msgid "DSP_ENTER_SITE_NAME"
+msgstr "Enter site name"
+
+msgid "DSP_PAYMENT_SUCCESS"
+msgstr "Thankyou for the payment."
+
+msgid "DSP_PAYMENT_FAILED"
+msgstr " Payment Failed! Try again later."
+
+msgid "DSP_USER_CANCELLED_PAYMENT"
+msgstr "You have cancelled the payment!"
+
+msgid "DSP_UPLOAD_IMAGE_SIZE_ERROR"
+msgstr "Image size cannot be more than 5 MB!"
+
+msgid "DSP_UPLOAD_VIDEO_SIZE_ERROR"
+msgstr "Video size cannot be more than 5 MB!"
+
+msgid "DSP_APP_NOT_CONFIGURED"
+msgstr "The app has not been configured yet!"
+
+msgid "DSP_COUNTRY_EMPTY_ERROR"
+msgstr " Country field is required!"
+
+msgid "DSP_ABOUT_ME_EMPTY_ERROR"
+msgstr "About me field is required!"
+
+msgid "DSP_TITLE_EMPTY_ERROR"
+msgstr "Title field is required!"
+
+msgid "DSP_CONTENT_EMPTY_ERROR"
+msgstr "Content field is required!"
+
+msgid "DSP_CONFIRM_DELETE"
+msgstr "Are you sure you want to delete?"
+
+msgid "DSP_REGISTER_AFTER_REDIRECT_MODULE"
+msgstr "After Register Redirect"
+
+msgid "DSP_SELECT_AFTER_REGISTER_REDIRECT_TEXT"
+msgstr "Select ON to activate the After Register Redirect url mode."
+
+msgid "DSP_ADMIN_EMAIL"
+msgstr "Register Email To Admin"
+
+msgid "DSP_ADMIN_EMAIL_NOTIFICATION_TEXT"
+msgstr "Select ON to Send Email to Admin after New User Registration"
+
+msgid "DSP_DISPLAY_OPTIONS"
+msgstr "Display options"
+
+msgid "DSP_MEMBERS_UP"
+msgstr "Member list up, Tab down"
+
+msgid "DSP_TABS_UP"
+msgstr "Tab up, Member list down"
+
+msgid "DSP_TAB_ONLY"
+msgstr "Tab only"
+
+msgid "DSP_SELECT_LAYOUT_TO_DISPLAY_MEMBERS"
+msgstr "Select which layouts to show in members not loggedin page"
+
+msgid "DSP_STORIES_NOT_FOUND"
+msgstr "No Story Found"
+
+msgid "DSP_ENTERED_WRONG_CAPTCHA"
+msgstr "Captcha did not match"
+
+msgid "DSP_VIEW_GIFT"
+msgstr "View Gift"
+
+msgid "DSP_NO_VIRTUAL_GIFTS"
+msgstr "No Virtual Gifts"
+
+msgid "DSP_DAY_MON"
+msgstr "Mon"
+
+msgid "DSP_DAY_TUE"
+msgstr "Tue"
+
+msgid "DSP_DAY_THU"
+msgstr "Thu"
+
+msgid "DSP_DAY_FRI"
+msgstr "Fri"
+
+msgid "DSP_DAY_SAT"
+msgstr "Sat"
+
+msgid "DSP_DAY_SUN"
+msgstr "Sun"
+
+msgid "DSP_ACTION"
+msgstr "Actions"
+
+msgid "DSP_UNBLOCK"
+msgstr "Unblock"
+
+msgid "DSP_DISPLAY_STATUS"
+msgstr "Show Into Advanced Search"
+
+msgid "DSP_PREMIUM_MEMBERSHIP_EXPIRATION_EMAIL"
+msgstr "Premium membership expiration"
+
+msgid "DSP_PAYMENT_SUCCESSFULL_EMAIL"
+msgstr "Payment Successful"
+
+msgid "DSP_PAYMENT_FAILED_EMAIL"
+msgstr "Payment Failed"
+
+msgid "DSP_PAYMENT_CANCELED_EMAIL"
+msgstr "Payment Cancelled"
+
+msgid "DSP_CREDIT_BALANCE_LOW_EMAIL"
+msgstr "Credit balance low"
+
+msgid "DSP_CREDIT_PURCHASE_EMAIL"
+msgstr "Credit Purchase"
+
+msgid "DSP_MEET_ME_EMAIL"
+msgstr "Meet me"
+
+msgid "DSP_RESET_PASSWORD_EMAIL"
+msgstr "Reset password"
+
+msgid "DSP_CANT_SEND_WINK_MSG"
+msgstr "Alert Member Notifications-> You can&rsquo;t send wink to this Member."
+
+msgid "DSP_CANT_SEND_MEET_ME_MSG"
+msgstr "Alert Member Notifications-> You can&rsquo;t send meet me message to this Member."
+
+msgid "DSP_CANT_SEND_RESET_PASSWORD_MSG"
+msgstr "Alert Email Notifications-> We can&rsquo;t send you a reset password beacause your notification setting for reset password is selected NO."
+
+msgid "DSP_ADD_NEW_DISCOUNT"
+msgstr "Add New Discount"
+
+msgid "DSP_NAME"
+msgstr "Name"
+
+msgid "DSP_DISCOUNT_DESCRIPTION"
+msgstr "Description"
+
+msgid "DSP_DISCOUNT_CODE"
+msgstr "Code"
+
+msgid "DSP_DISCOUNT_TYPE"
+msgstr "Type"
+
+msgid "DSP_DISCOUNT_AMOUNT"
+msgstr "Amount"
+
+msgid "DSP_STATUS"
+msgstr "status"
+
+msgid "DSP_DISCOUNT_USES"
+msgstr "Uses"
+
+msgid "DSP_DISCOUNT_CODES"
+msgstr "Discount Codes"
+
+msgid "DSP_DISCOUNT_CODE_OPTIONS"
+msgstr "Discount Codes options"
+
+msgid "DSP_ENTER_YOUR_DISCOUNT_CODE"
+msgstr "Enter Your Discount Code"
+
+msgid "DSP_TOTAL_AMOUNT"
+msgstr "Amount"
+
+msgid "DSP_DISCOUNT_PRICE"
+msgstr "Discount"
+
+msgid "DSP_TOTAL_AMOUNT_AFTER_DISCOUNT"
+msgstr "Amount After Discount"
+
+msgid "DSP_COUPAN_USED"
+msgstr "Coupan already used"
+
+msgid "DSP_WRONG_COUPAN_CODE"
+msgstr "Wrong Coupan Code Entered"
+
+msgid "DSP_USER_LISTS_BASED_ON_JOINED_DATE"
+msgstr "Profile By Registered Date"
+
+msgid "DSP_DATEFIELD_EMPTY"
+msgstr "Start and End Date not selected"
+
+msgid "DSP_BACK_TO_SEARCH_RESULT"
+msgstr "Back to search results"
+
+msgid "DSP_SELECT_FREE_MEMBER_GENDER_MODE_TEXT"
+msgstr "Select which type of member get to use this site for free"
+
+msgid "DSP_NO_COMMENT"
+msgstr "No Comments"
+
+msgid "DSP_VIEW_WINK"
+msgstr "View Wink"
+
+msgid "DSP_TEMPLATE_IMAGES"
+msgstr "Template Images"
+
+msgid "DSP_UPLOAD_TEMPLATE_IMAGES"
+msgstr "Upload Template Images"
+
+msgid "DSP_IMAGE_CAPTION"
+msgstr "Caption"
+
+msgid "DSP_SELECT_MALE_TEXT"
+msgstr "Select ON to activate the male mode."
+
+msgid "DSP_SELECT_FEMALE_TEXT"
+msgstr "Select ON to activate the female mode."
+
+msgid "DSP_COMMENT_ON_PROFILE_TEXT_MESSAGE"
+msgstr "The following user has commented on your profile. Please check the comments"
+
+msgid "DSP_ENABLE_HOME_ELEMENTS_TEXT_MESSAGE"
+msgstr "To enable elements of home page elements. Please check the checkbox"
+
+msgid "DSP_INVALID_ZIPCODE"
+msgstr "Invalid zip code"
+
+msgid "DSP_PLEASE_ENTER_ZIP_CODE"
+msgstr "Please Enter zipcode."
+
+msgid "DSP_ENABLE_HOME_PAGE_ELEMENTS"
+msgstr "Enable Home page elements"
+
+msgid "DSP_SELECT_ONLINE_MEMBERS"
+msgstr "Random Online Members"
+
+msgid "DSP_SELECT_ONLINE_MEMBERS_VIEW_TEXT"
+msgstr "Select ON to activate the random online members mode."
+
+msgid "DSP_NO_OF_RANDOM_ONLINE_MEMBERS_VIEW"
+msgstr "No. of members"
+
+msgid "DSP_EXCEEDS_NO_OF_ONLINE_MEMBERS"
+msgstr "Please enter less than 10 for random online members"
+
+msgid "DSP_USERS_STATISTICS"
+msgstr "Users Statistics"
+
+msgid "DSP_USERS_BY_COUNTRY"
+msgstr "Members By Country"
+
+msgid "DSP_ALL_USERS_STATISTICS"
+msgstr "All User Statistics"
+
+msgid "DSP_START_DATE"
+msgstr "Start Date"
+
+msgid "DSP_END_DATE"
+msgstr "End Date"
+
+msgid "DSP_GIFTS_PER_CREDIT"
+msgstr "Gifts Per Credit"
+
+msgid "DSP_GIFTS_PER_CREDIT_TEXT"
+msgstr "This is the number of credits required to send per gift."
+
+msgid "DSP_CREDIT_PER_DOLLOR"
+msgstr "Credit Per $"
+
+msgid "DSP_CREDIT_PER_PRICE"
+msgstr "Credit Per Price"
+
+msgid "DSP_CREDIT_PER_PRICE_TEXT"
+msgstr "This is the credit per price. Do not use the currency sign. Just put the number."
+
+msgid "DSP_SELECT_DISTANCE"
+msgstr "Distance"
+
+msgid "DSP_UNIT"
+msgstr "Unit"
+
+msgid "DSP_SELECT_UNIT"
+msgstr "Select Unit"
+
+msgid "DSP_KM"
+msgstr "Km"
+
+msgid "DSP_DISCOUNT_NAME_TEXT"
+msgstr "Please enter discount name."
+
+msgid "DSP_DISCOUNT_CODE_TEXT"
+msgstr "Please enter discount code."
+
+msgid "DSP_DISCOUNT_TYPE_TEXT"
+msgstr "Please enter discount type."
+
+msgid "DSP_DISCOUNT_DESCRIPTION_TEXT"
+msgstr "please enter description."
+
+msgid "DSP_DISCOUNT_AMOUNT_TEXT"
+msgstr "Please choose discount amount."
+
+msgid "DSP_SEARCH_BY_PLACE_ZIPCODE_COUNTRY"
+msgstr "PlaceipcodeCountry"
+
+msgid "DSP_PLACE"
+msgstr "Place"
+
+msgid "DSP_SELECT_DISTANCE_FEATURES"
+msgstr "Distance Feature"
+
+msgid "DSP_SELECT_DISTANCE_FEATURES_TEXT"
+msgstr " Select ON to activate Distance Module."
+
+msgid "DSP_PROFILE_EXISTS_TO_USE_FEATURES_MESSAGE"
+msgstr "You must create your profile before you can use this feature."
+
+msgid "DSP_PROFILE_APPROVED_MESSAGE"
+msgstr "Your profile has not been Approved yet"
+
+msgid "DSP_GATEWAYS_UPDATED_MESSAGE"
+msgstr "New Gateways Updated!!!!"
+
+msgid "DSP_INSTRUCTION"
+msgstr "Instruction"
+
+msgid "DSP_UPGRADE_BANK_WIRE"
+msgstr "Upgrade / Bank wire"
+
+msgid "DSP_UPGRADE_CHEQUE_PAYMENT"
+msgstr "Upgrade / Cheque payment"
+
+msgid "DSP_BANK_CHEQUE_USERS"
+msgstr "Bank & Cheque Users"
+
+msgid "DSP_PLAN_AMOUNT"
+msgstr "Plan Amount"
+
+msgid "DSP_PLAN_DAYS"
+msgstr "Plan Days"
+
+msgid "DSP_PLAN_NAME"
+msgstr "Plan Name"
+
+msgid "DSP_PAYMENT_COMPLETED"
+msgstr "Completed"
+
+msgid "DSP_SECURITY_VILOATION"
+msgstr "Security Viloation"
+
+msgid "DSP_EDIT_THIS_ONLY"
+msgstr "Edit This Only"
+
+msgid "DSP_SELECT_TERM_TEXT"
+msgstr "Select ON to activate the Terms of Service mode."
+
+msgid "DSP_NEW_DISCOUNT_CODE_ADDED"
+msgstr "New Discount Code added!!!!"
+
+msgid "DSP_NEW_DISCOUNT_CODE_UPDATED"
+msgstr "Discount Code updated!!!!"
+
+msgid "DSP_PERCENTAGE"
+msgstr "%"
+
+msgid "DSP_DOLLOR"
+msgstr "$"
+
+msgid "DSP_ONLINE_MEMBER_WIDGET_DESCRIPTION"
+msgstr "An Online Members widget that displays dsp dating online members."
+
+msgid "DSP_SELECT_DEFAULT_COUNTRY"
+msgstr "Default Country"
+
+msgid "DSP_TEXT_ENABLE_TRENDING_FEATURE"
+msgstr "Enable Trending Feature"
+
+msgid "DSP_OTHER_SETTING"
+msgstr "Other Settings"
+
+msgid "DSP_START_DSP_YEAR"
+msgstr "Start DSP year"
+
+msgid "DSP_START_YEAR"
+msgstr "Start Year"
+
+msgid "DSP_ENABLE_RECAPCHA_MODE"
+msgstr "Enable Recapcha"
+
+msgid "DSP_ENABLE_RECAPCHA_TEXT"
+msgstr "Select ON to enable Recaptcha"
+
+msgid "DSP_DISTANCE_MODE_TEXT"
+msgstr "Select ON to enable distance"
+
+msgid "DSP_SELECT_DEFAULT_COUNTRY_TEXT"
+msgstr "Select default country"
+
+msgid "DSP_CHOOSE_CAPTION_MESSAGE"
+msgstr "Please choose caption."
+
+msgid "DSP_CHOOSE_STATUS_MESSAGE"
+msgstr "Please choose status"
+
+msgid "DSP_CHOOSE_IMAGE_FILE_MESSAGE"
+msgstr "Please choose image file."
+
+msgid "DSP_CHAT_WIDGET"
+msgstr "A chat widget."
+
+msgid "DSP_GOOGLE_RECAPTCHA_SETTING"
+msgstr "Google Recaptcha Setting"
+
+msgid "DSP_GOOGLE_APP_ID_TEXT"
+msgstr "Enter your Google APP Id here"
+
+msgid "DSP_TOTAL_INTREST"
+msgstr "Total Intrest"
+
+msgid "DSP_REGISTERED_USERS"
+msgstr "Registered Users"
+
+msgid "DSP_DATES_TRACKED"
+msgstr "Dates Tracked"
+
+msgid "DSP_USER_STATISTICS"
+msgstr "All User Statistics"
+
+msgid "DSP_FACEBOOK_LOGIN_SETTING"
+msgstr "Facebook Login Setting"
+
+msgid "DSP_APP_ID"
+msgstr "APP Id"
+
+msgid "DSP_FACEBOOK_APP_ID_TEXT"
+msgstr "Enter your facebook APP id here."
+
+msgid "DSP_SECRET_ID"
+msgstr "Secret Key"
+
+msgid "DSP_FACEBOOK_SECRET_ID_TEXT"
+msgstr "Enter your facebook secret key here."
+
+msgid "DSP_FACEBOOK_LOGIN"
+msgstr "Facebook Login"
+
+msgid "DSP_ENABLE_MAKE_PRIVATE_OPTION_TEXT"
+msgstr "Enable Make Private Option in Edit Profile Section"
+
+msgid "DSP_FACEBOOK_LOGIN_TEXT"
+msgstr "Enable Facebook Login module.For more info how to set up Facebook Api  "
+
+msgid "DSP_PROFILE_QUESTIONS_ADDED"
+msgstr "New profile Question added!"
+
+msgid "DSP_PROFILE_QUESTIONS_UPDATED"
+msgstr "Profile Question updated!"
+
+msgid "DSP_TEMPLATE_IMAGE_INFO_TEXT"
+msgstr "Please upload template images of following sizes for template1(566px*361px),template2(950px*694px),template3(950px*413px),template4(950px*457px),template5(950px*482px),template6(525px*418px),template7(950px*457px)"
+
+msgid "DSP_DISCOUNT_CODES_TEXT"
+msgstr "Select ON to enable Discount coupan code option"
+
+msgid "DSP_EDIT_MY_LOCATION"
+msgstr "Edit Current Location"
+
+msgid "DSP_CHOOSE_YOUR_BANK"
+msgstr "Choose your bank:"
+
+msgid "DSP_IDEAL_SUCCESSFUL_STATUS"
+msgstr "Status was Successful...Thank you for your order."
+
+msgid "DSP_OK"
+msgstr "OK."
+
+msgid "DSP_IP_ADDRESS_INCORRECT"
+msgstr "IP address not correct... This call is not from Targetpay."
+
+msgid "DSP_COULDNOT_FETCH_RESPONSE"
+msgstr "Could not fetch response"
+
+msgid "DSP_NEW_MEMBERSHIP_ADDED"
+msgstr "New Membership added!!!!"
+
+msgid "DSP_NEW_MEMBERSHIP_UPDATED"
+msgstr "Membership updated!!!!"
+
+msgid "DSP_COPY_UNSUCCESSFUL"
+msgstr "Copy unsuccessfull!"
+
+msgid "DSP_DISCOUNT_COUPON_CODE_TEXT"
+msgstr "If you don not have coupon code,Please leave it blank"
+
+msgid "DSP_API_KEY_LINK"
+msgstr "Click Here To Get API Key"
+
+msgid "DSP_COMMENT_SUCCESSFUL_TEXT"
+msgstr "The comment has been successful.It will be shown after approval of this user."
+
+msgid "DSP_GOOGLE_SECRET_ID_TEXT"
+msgstr "Enter your Google secret key here."
+
+msgid "DSP_SEND_WINK_SUCCESS"
+msgstr "Wink Sent Sucessfully."
+
+msgid "DSP_RATE_SUCCESS"
+msgstr "You have rated this user successfully. Thank you !"
+
+msgid "DSP_USER_NAME_ALREADY_EXIST"
+msgstr "Username already exists"
+
+msgid "DSP_EMAIL_ALREADY_EXIST"
+msgstr "Email already exists"
+
+msgid "DSP_SITE_KEY"
+msgstr "Site Key"
+
+msgid "DSP_GOOGLE_SITE_KEY_TEXT"
+msgstr "Enter your Google Site Key here"
+
+msgid "DSP_CREDIT_PER_EMAILS_TEXT"
+msgstr "This is the number of credits required to send per email."
+
+msgid "DSP_CREDIT_PER_GIFTS_TEXT"
+msgstr "This is the number of credits required to send per gifts."
+
+msgid "DSP_SELECT_TRENDING_TEXT"
+msgstr "Select ON to enable trending sub-menu in extra menu"
+
+msgid "DSP_EMPTY_ALBUMS"
+msgstr "No Image uploaded by this user"
+
+msgid "DSP_SEARCH_FORM_TYPE"
+msgstr "Search Form Type"
+
+msgid "DSP_SEARCH_FORM_TYPE_TEXT"
+msgstr "Select search form type in home page"
+
+msgid "DSP_SEARCH_BY_LOCATION"
+msgstr "Search form with country list"
+
+msgid "DSP_SEARCH_BY_GEOGRAPHY"
+msgstr "Search form with geography"
+
+msgid "DSP_NONE"
+msgstr "None"
+
+msgid "DSP_FIRST_NAME_SHOULD_NO_BE_EMPTY"
+msgstr "First name field should not be empty."
+
+msgid "DSP_LAST_NAME_SHOULD_NO_BE_EMPTY"
+msgstr "Last name field should not be empty."
+
+msgid "DSP_ENABLE_REGISTRATION_FIRSTNAME_USERNAME_OPTION"
+msgstr "Enable Registration Field"
+
+msgid "DSP_ENABLE_REGISTRATION_FIRSTNAME_USERNAME_OPTION_TEXT"
+msgstr "Select ON to enable firstname & lastname field in Registration form"
+
+msgid "DSP_FRIEND_REQUEST_SUCCESS_MSG_FRIEND"
+msgstr "You are now friend with this user"
+
+msgid "DSP_FULLNAME"
+msgstr "Fullname"
+
+msgid "DSP_USER_PROFILE_DISPLAY_NAME"
+msgstr "User Profile Display Name"
+
+msgid "DSP_USER_PROFILE_DISPLAY_NAME_TEXT"
+msgstr "Select option to display user profile display name"
+
+msgid "DSP_DELETE_MESSAGE_SUCCESS"
+msgstr "Message deleted Sucessfully."
+
+msgid "DSP_HOME_PAGE_ELEMENTS"
+msgstr "Home page Elements"
+
+msgid "DSP_AFTER_USER_REGISTER"
+msgstr "After User Register"
+
+msgid "DSP_AUTO_LOGIN"
+msgstr "Auto Login"
+
+msgid "DSP_EMAIL_VERIFICATION"
+msgstr "Email Verification"
+
+msgid "DSP_AFTER_USER_REGISTER_TEXT"
+msgstr "Select option to redirect user after registration. Note: You must have dsp_add_on"
+
+msgid "DSP_USER_ACCOUNT_ACTIVATED_SUCCESSFULLY"
+msgstr "Your account is activated successfully"
+
+msgid "DSP_USER_NOT_EXIST"
+msgstr "User not exist"
+
+msgid "DSP_CURRENT_STATUS"
+msgstr "Current Status :"
+
+msgid "DSP_NO_ONE_VIEW_YOUR_PROFILE"
+msgstr "Noone view your profile till now"
+
+msgid "DSP_END_YEAR"
+msgstr "End Year"
+
+msgid "DSP_END_YEAR_TEXT"
+msgstr "End DSP Year"
+
+msgid "DSP_TOOLS_IMPORT_LANGUAGE_PACK"
+msgstr "Import Language Pack"
+
+msgid "DSP_IMPORT_LANGUAGE_INFO"
+msgstr "Select language that pack needed to import"
+
+msgid "DSP_LANGUAGE_PACK_INFO"
+msgstr "Select language pack need to import"
+
+msgid "DSP_LANGUAGE_PACK"
+msgstr "Language Pack"
+
+msgid "DSP_LICENSE_KEY"
+msgstr "License Key"
+
+msgid "DSP_LICENSE_KEY_TEXT"
+msgstr "Enter a valid license key for WP Dating Plugin."
+
+msgid "DSP_SPAM_FILTER_ERROR"
+msgstr "Either you entered only spam words or no <#name#> entered"
+
+msgid "DSP_LICENSE_NOTIFICATION"
+msgstr "Please make sure,you have configured your license key correctly to get rid of this message."
+
+msgid "DSP_SETTINGS_HEADER_LICENSE_ACTIVATE"
+msgstr "Activate License"
+
+msgid "DSP_LICENSE_ACTIVATE_SUCCESSFULLY"
+msgstr "License is Activated"
+
+msgid "DSP_SEARCH_AND_CHAT"
+msgstr "Search and Chat"
+
+msgid "DSP_FEATURES"
+msgstr "Features"
+
+msgid "DSP_CUSTOMIZE"
+msgstr "Customize"
+
+msgid "DSP_ACCOUNTS_AND_PAYMENT"
+msgstr "Accounts and Payment"
+
+msgid "DSP_ADDONS"
+msgstr "Addons"
+
+msgid "DSP_BASIC_SEARCH"
+msgstr "Basic Search"
+
+msgid "DSP_ADVANCED_SEARCH"
+msgstr "Advanced Search"
+
+msgid "DSP_UPGRADE_ACCOUNT"
+msgstr "Upgrade Account"
+
+msgid "DSP_EMPTY_CHAT"
+msgstr "Please enter a message"
+
+msgid "DSP_FORGOT_PASSWORD"
+msgstr "Forgot Password"
+
+msgid "DSP_LANGUAGE_DELETE_TEXT"
+msgstr "You have to first delete <#LANGNAME#> language to import this language pack"
+
+msgid "DSP_ALBUM_NAME"
+msgstr "Album name"
+
+msgid "DSP_PHOTO"
+msgstr "Photos"
+
+msgid "DSP_MY_ALBUM"
+msgstr "My Album"
+
+msgid "DSP_REPORT"
+msgstr "Report"
+
+msgid "DSP_REASON"
+msgstr "Please write us your reason:"
+
+msgid "DSP_REPORT_THIS_COMMENT"
+msgstr "Report this comment"
+
+msgid "DSP_PLEASE_ENTER_REASON"
+msgstr "Please enter the reason for report."
+
+msgid "DSP_REPORT_SENT_SUCCESSFULLY"
+msgstr "Your report was successfully submitted."
+
+msgid "DSP_REPORT_NOT_SENT"
+msgstr "Your report was not submitted."
+
+msgid "DSP_REPORTED_COMMENT"
+msgstr "Reported Comment"
+
+msgid "DSP_IGNORE"
+msgstr "Ignore"
+
+msgid "DSP_COMMENT"
+msgstr "Comment"
+
+msgid "DSP_REPORTED_BY"
+msgstr "Reported by"
+
+msgid "DSP_REASONS"
+msgstr "Reason"
+
+msgid "DSP_SETTINGS_HEADER_FEATURED_MEMBER"
+msgstr "Featured Member"
+
+msgid "DSP_SEARCH_USER"
+msgstr "Search User"
+
+msgid "DSP_FEATURED_MEMBERS"
+msgstr "Featured Members"
+
+msgid "DSP_CONTACT_PERMISSIONS"
+msgstr "Contact Permissions (Who can contact me?)"
+
+msgid "DSP_WELCOME"
+msgstr "Welcome"
+
+msgid "DSP_PRICE"
+msgstr "Price"
+
+msgid "DSP_PREMIUM_DELETE_NOTE"
+msgstr "Please Note: If a membership plan is being used you cannot delete that Membership Plan."
+
+msgid "DSP_ORDER"
+msgstr "Order"
+
+msgid "DSP_PROFILE_PICTURE"
+msgstr "Profile Picture"
+
+msgid "DSP_LOGIN_ID"
+msgstr "Login ID"
+
+msgid "DSP_MOVE"
+msgstr "Move"
+
+msgid "DSP_ALL"
+msgstr "All"
+
+msgid "DSP_EMAIL_UNREAD"
+msgstr "Email is Unread"
+
+msgid "DSP_EMAIL_READ"
+msgstr "Email has been Read"
+
+msgid "DSP_SAVE"
+msgstr "Save"
+
+msgid "DSP_PREVIOUS"
+msgstr "Previous"
+
+msgid "DSP_NEXT"
+msgstr "Next"
+
+msgid "DSP_JS_VALIDATION_DEFALT_MESSAGE"
+msgstr "This value seems to be invalid."
+
+msgid "DSP_JS_VALIDATION_EMAIL"
+msgstr "This value should be a valid email."
+
+msgid "DSP_JS_VALIDATION_URL"
+msgstr "This value should be a valid url."
+
+msgid "DSP_JS_VALIDATION_VALID_NUMBER"
+msgstr "This value should be a valid number."
+
+msgid "DSP_JS_VALIDATION_VALID_INTEGER"
+msgstr "This value should be a valid integer."
+
+msgid "DSP_JS_VALIDATION_VALID_DIGITS"
+msgstr "This value should be digits."
+
+msgid "DSP_JS_VALIDATION_VALID_ALPHANUM"
+msgstr "This value should be alphanumeric."
+
+msgid "DSP_JS_VALIDATION_NOT_BLANK"
+msgstr "This value should not be blank."
+
+msgid "DSP_JS_VALIDATION_REQUIRED"
+msgstr "This value is required."
+
+msgid "DSP_JS_VALIDATION_PATTERN"
+msgstr "This value seems to be invalid."
+
+msgid "DSP_JS_VALIDATION_MIN"
+msgstr "This value should be greater than or equal to %s."
+
+msgid "DSP_JS_VALIDATION_MAX"
+msgstr "This value should be lower than or equal to %s."
+
+msgid "DSP_JS_VALIDATION_RANGE"
+msgstr "This value should be between %s and %s."
+
+msgid "DSP_JS_VALIDATION_MINLENGTH"
+msgstr "This value is too short. It should have %s characters or more."
+
+msgid "DSP_JS_VALIDATION_MAXLENGTH"
+msgstr "This value is too long. It should have %s characters or fewer."
+
+msgid "DSP_JS_VALIDATION_LENGTH"
+msgstr "This value length is invalid. It should be between %s and %s characters long."
+
+msgid "DSP_JS_VALIDATION_MINCHECK"
+msgstr "You must select at least %s choices."
+
+msgid "DSP_JS_VALIDATION_MAXCHECK"
+msgstr "You must select %s choices or fewer."
+
+msgid "DSP_JS_VALIDATION_CHECK"
+msgstr "You must select between %s and %s choices."
+
+msgid "DSP_JS_VALIDATION_EQUAL_TO"
+msgstr "This value should be the same."
+
+msgid "DSP_RECURRING_WARNING_USER"
+msgstr "This is a recurring payment plan. You will be subscribed to this plan until you cancel it from your paypal account."
+
+msgid "DSP_NO_OF_DAYS_RECURRING_WARNING"
+msgstr "Due to restrictions put on recurring plan, recurring payment gateway (such as Paypal Recurring - Subscriptions) can only be activated where the number of days satisfies the following conditions."
+
+msgid "DSP_NO_OF_DAYS_RECURRING_DAYS"
+msgstr "No of days is less than or equal to 90 with range (1 to 90)"
+
+msgid "DSP_NO_OF_DAYS_RECURRING_WEEKS"
+msgstr "No of days is multiple of 7 with range (7 to 364)."
+
+msgid "DSP_NO_OF_DAYS_RECURRING_MONTHS"
+msgstr "No of days is multiple of 30 with range (30 to 720)."
+
+msgid "DSP_NO_OF_DAYS_RECURRING_YEARS"
+msgstr "No of days is multiple of 365 with range (365 to 1825)."
+
+msgid "DSP_QUICK_ACTIONS"
+msgstr "QUICK ACTIONS"
+
+msgid "DSP_FREE_MEMBERSHIP_PLAN"
+msgstr "Make this membership plan free"
+
+msgid "DSP_APPLY"
+msgstr "Apply"
+
+msgid "DSP_IS_ACTIVE"
+msgstr "is activated"
+
+msgid "DSP_PLAN"
+msgstr "Plan"
+
+msgid "DSP_PROFILE_MAKE_PRIVATE"
+msgstr "Make this profile questions private"
+
+msgid "DSP_ONLY_OPTION"
+msgstr "Only me"
+
+msgid "DSP_PROFILE_ONLY_ME"
+msgstr "You cannot view this profile"
+
+msgid "DSP_UPGRADE_CCBILL"
+msgstr "Upgrade/CCBill"
+
+msgid "DSP_LIST_ALL"
+msgstr "List All"
+
+msgid "DSP_GOOGLE_API_KEY"
+msgstr "Google Api Key"
+
+msgid "DSP_REPORTED_TO"
+msgstr "Reported To"
+
+msgid "DSP_NO_AUDIO_UPLOADED"
+msgstr "The user has not uploaded any audios."
+
+msgid "DSP_NO_VIDEO_UPLOADED"
+msgstr "The user has not uploaded any videos."
+
+msgid "DSP_NO_PICTURE_UPLOADED"
+msgstr "The user has not uploaded any photos."
+
+msgid "DSP_NEW_PASSWORD"
+msgstr "New Password: "
+
+msgid "DSP_LIST_OF_ALBUM"
+msgstr "List Of Albums"
+
+msgid "DSP_MENU_PHOTOS"
+msgstr "Photos"
+
+msgid "DSP_EMAIL_NOTIFICATION_TITLE"
+msgstr "Email Notification"
+
+msgid "DSP_MEDIA_HEADER_ALBUMS"
+msgstr "Albums"
+
+msgid "DSP_INBOX_MESSAGE"
+msgstr "Inbox"
+
+msgid "DSP_UNBLOCK_MEMBER_MESSAGE"
+msgstr "Are you sure you want to Unblock?"
+
+msgid "DSP_MAKE_PRO_PIC_PRIVATE"
+msgstr "Make your profile picture Private"
+
+msgid "DSP_SUBMENU_SEARCH_SAVED"
+msgstr "Saved Searches"
+
+msgid "DSP_DATE_TRACKER_MESSAGE_UPDATED"
+msgstr "Do you want to save this user in your date tracking list?"
+
+msgid "DSP_ACCEPT GIFTS"
+msgstr "Accept This Gifts"
+
+msgid "DSP_SENT_GIFT"
+msgstr "Sent Gifts"
+
+msgid "DSP_NEWS_SEND_MESSAGE"
+msgstr "just sent you a Message."
+
+msgid "DSP_STEALTH_MODE_TITLE"
+msgstr "Use the site being in the offline mode"
+
+msgid "DSP_SEND_MESSAGE_SUCCESSFULLY"
+msgstr "Message Sent Successfully."
+
+msgid "DSP_MESSAGE_EMAIL_MODE"
+msgstr "Enable Message"
+
+msgid "DSP_DELETE_MESSAGES"
+msgstr "Are you sure you want to Delete this Message?"
+
+msgid "DSP_HEADER_DASHBOARD"
+msgstr "Dashboard"
+
+msgid "DSP_START_NOW"
+msgstr "Start now"
+
+msgid "DSP_STATUS_UPDATE_NEW"
+msgstr "Current Status"
+
+msgid "DSP_NEW_RECORDS_NOT_FOUND"
+msgstr "Sorry, we could not find anyone near you. Start a new search."
+
+msgid "DSP_NEW_EMPTY"
+msgstr "No saved searches yet."
+
+msgid "DSP_NEW_PROFILE_MAKE_PRIVATE"
+msgstr "Make these profile questions private"
+
+msgid "DSP_NEW_PLEASE_CHECK_YOUR_EMAIL_FOR_LOGIN_DETAIL"
+msgstr "Alright! Your username and password has been emailed to you. Please check your email."
+
+msgid "DSP_GIVE_SEARCH_TITLE"
+msgstr "Give title to your saved search"
+
+msgid "DSP_MIN_AGE"
+msgstr "Minimum age"
+
+msgid "DSP_MAX_AGE"
+msgstr "Maximum age"
+
+msgid "DSP_MIN_SEARCH_AGE"
+msgstr "Minimum search age"
+
+msgid "DSP_MAX_SEARCH_AGE"
+msgstr "Maximum search age"
+
+msgid "DSP_STEALTH_MODE_DESCRIPTION"
+msgstr "Select ON to enable offline mode on your site"
+
+msgid "DSP_SETTINGS_HEADER_CREDITS_PLAN"
+msgstr "Credits Plan"
+
+msgid "DSP_HELP_NOTIFICATION"

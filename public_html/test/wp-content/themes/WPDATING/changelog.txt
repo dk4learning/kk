@@ -1,0 +1,203 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Copyright 2014-2015 WPDating.Com
+
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+Versioning Legend: 1.0.0
+----
+
+MAJOR version when you make major changes,
+MINOR version when you add features or functions
+
+-------
+(3 June 2021) WP Dating Theme Changes Version 4.0.0
+[*] Updated the external js and css file to latest version
+[!] design fixed on change profile picture section
+[!] css issue fixed
+[!] quick search design fixed
+[x] removed unnecessary meet me js
+-------
+(1 september 2020) wpdating theme instant chat added updated Version 3.4.4
+
+(10 july 2020) wpdating theme instant chat added updated Version 3.4.3
+
+PATCH version when you make bug fixes
+
+(20 may 2020) wpdating theme anchor tag script updated Version 3.4.2
+
+-------
+(8 January 2021) WP Dating Theme Changes Version 3.5.0
+[+] Photo update option in Profile Photo Section
+[!] Register URL fixed
+[!] Instant Chat page design fixes
+[!] Responsive design fixes
+-------
+(02 January 2020) WP Dating Theme Changes Version 3.4.1
+[!] Header design fixes
+[!] Fixes for the language translation
+[!] Login validation added
+-------
+(27 November 2019) WP Dating Theme Changes Version 3.4
+[!] Design Fixes
+-------
+(10 September 2019) WP Dating Theme Changes Version 3.3
+[!] Featured members date validation bug fixed
+[!] Design fixes while loading the website
+-------
+(2 August 2019) WP Dating Theme Changes Version 3.2
+[!] Design Fixes.
+[!] Not available notice added for Extras sub menu items for non-premium users.
+-------
+(11 February 2019) WP Dating Theme Changes Version 3.1
+[!] slider camera contents made visible on mobile.
+[!] error message made visible while registering.
+-------
+-------
+(18 January 2019) WP Dating Theme Changes Version 3.0
+[!] WP MultiLang Plugin Compatibility
+-------
+(7 December 2018) WP Dating Theme Changes Version 2.12.3
+[!] Trending profile dropdown fix
+[!] Design fixes
+-------
+(27 November 2018) WP Dating Theme Changes Version 2.12.2
+[!] Profile chart issue fiz
+[!] Registration form fix
+-------
+(25 October 2018) WP Dating Theme Changes Version 2.12.1
+[!] Search form Design issue fixes
+[!] Homepage footer link color fix
+[!] Register form design issue fix
+-------
+(24 October 2018) WP Dating Theme Changes Version 2.12.0
+[!] Email's images size fixes
+[!] Profile graph alignment fix
+[!] Sidebar height Uniformity fix
+[!] Design fix on Status update
+[!] Menu Text color fix
+[!] Fixed text change on Search Result 
+[!] Fixed edit profile page design
+[!] Design Fixed After Registration Text message
+[!] Replaced 'Empty' text for search page
+[!] Design fixed on Age on the Search block
+[!] Design Fixed (Check Box) on edit page
+[!] Fixed Home page Member slider header color
+-------
+(27 September 2018) WP Dating Theme Changes Version 2.11.1
+[!] More user friendly designs
+[!] Mobile responsive and Designs fixes
+-------
+(14 September 2018) WP Dating Theme Changes Version 2.11
+[!] Mobile responsive and Designs fixes
+----
+(17th August 2018) WP Dating Theme Changes Version 2.10.5
+[!] Css Fixes for responsive design
+----
+(19th June 2018) WP Dating Theme Changes Version 2.10.4
+[+] Php 7 Compatible
+----
+(14th May 2018) WP Dating Theme Changes Version 2.10.3
+[+] Powered by signature added in the footer of the site.
+----
+(06th April 2018) WP Dating Theme Changes Version 2.10.2
+[!] Quick search Mobile responive
+[!] New Members and Featured Members section disappearing fixed
+[!] CSS Fixes
+----
+(28th February 2018) WP Dating Theme Changes Version 2.10.1
+[!] Css fixes
+
+----
+(17th October 2017) WP Dating Theme Changes Version 2.10
+[!] Facebook button css
+
+----
+(10th April 2017) WP Dating Theme Changes Version 2.9
+[!] Facebook API SDK updated
+[!] Image not displayed in online members
+
+----
+(12th December 2016) WP Dating Theme Changes Version 2.8
+[+] Qtranlate Support
+
+----
+(3rd October 2016) WP Dating Theme Changes Version 2.7
+[!] Previous, Next Button css in Mobile View
+[+] Add to friends css
+
+----
+(22nd August 2016) WP Dating Theme Changes Version 2.6
+[!] Removed Deprecated function
+[!] Meet Me Widget
+[+] Typography Feature
+----
+(1st June 2016) WP Dating Theme Changes Version 2.5
+[!] Https compatible
+[!] Contact Page fields fix in FIREFOX Browser
+
+----
+(4th May 2016) WP Dating Theme Changes Version 2.4
+[+] Added MeetMe widget
+[!] Front page now shows display name instead of nice name
+[!] Removed HardCoded text in frontpage
+[+] Facebook Button
+
+----
+(18th January 2016) WP Dating Theme Changes Version 2.3
+[+] Added featured member
+[!] Stealth mode css
+
+----
+(11th December 2015) WP Dating Theme Changes Version 2.2
+[!] Fixed Country Width at Slider search form
+[!] Astrological Sign is shown in profile
+[!] Happy Stories added link in frontpage
+[!] Harcoded removed in frontpage
+----
+(20th August 2015) WP Dating Theme Changes Version 2.1
+[!] Fixed Slider Image Upload
+
+
+
+----
+(20th August 2015) WP Dating Theme Changes Version 2.0
+[!] Fixed issues related to Header
+[!] Improved PHP and CSS codes
+[!] Improved JavaScript Codes
+
+----
+(28th May 2015) WP Dating Theme Changes Version 1.5
+[!] Fixed Header Codes 
+
+----
+(27th May 2015) WP Dating Theme Changes Version 1.4
+[!] Fixed footer navigation
+[!] Fixed CSS
+
+----
+(26th May 2015) WP Dating Theme Changes Version 1.3
+[!] Fixed Search Bar
+[!] PHP code Fixed
+[!] Country search Fixed
+[!] CSS Fixed
+----
+(22nd May 2015) WP Dating Theme Changes Version 1.2
+[!] Fixed Meta tags
+[!] Fixed thumbnail image
+----
+(21st May 2015) WP Dating Theme Changes Version 1.1
+[!] Fixed Responsiveness
+[!] Fixed Facebook Login
+
+(20th May 2015) WP Dating Theme Released Version 1.0
+
+

@@ -1,0 +1,24 @@
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://test3.kongukalyaanam.com
+Data file = /home/u591164756/domains/kongukalyaanam.com/public_html/test3/wp-content/uploads/2022/01/demo-data.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+

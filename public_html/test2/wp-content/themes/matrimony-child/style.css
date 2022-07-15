@@ -1,0 +1,429 @@
+/*
+    Theme Name: Lavish Date Child
+    Theme URI: http://www.wpdating.com
+    Author: Ashish Tamrakar
+    Author URI: http://www.wpdating.com
+    Version: 1.4
+    License: GNU General Public License
+    License URI: license.txt
+	Template: matrimony
+    Text Domain: matrimony
+    Domain Path: /languages/
+    Tags: Dating theme, Theme Framework, WP Dating Theme, WordPress Theme, WP Dating Theme Framework,  HTML5, Clean, Responsive, Black, White
+    Description: WordPress Theme designed for WordPress Dating Plugin users
+    This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and share what you've learned with others.
+*/
+a {
+    color: #f06060;
+}
+.dsp-logo-placeholder img {
+    width: 100%;
+    padding: 30px 5px;
+}
+.navmenu .current_page_item>a, .navmenu .current_page_ancestor>a, .navmenu .current-menu-item>a, .navmenu .current-menu-ancestor>a {
+    outline: none;
+    background-color: #7CD0AE;
+    color: #fff;
+}
+p, div, li, span, table, td, tr, a , ul.navmenu>li>a{
+    font-family: 'Source Sans Pro',Helvetica, Arial, sans-serif;
+}
+ul.navmenu>li>a{
+    font-weight:400 !important;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Oxygen', sans-serif;
+	font-weight:700;
+}
+#lavish_dsp_header {
+    background-color: #fff;
+    border-bottom: 0px solid #7CD0AE;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2), 0 0 20px rgba(0, 0, 0, 0.1) !important;
+}
+ul.navmenu>li>a:hover, ul.navmenu>li>a:focus, ul.navmenu>li>a:active {
+	font-family: 'Source Sans Pro',Helvetica, Arial, sans-serif;
+    background-color: #10a296!important;
+    color: #fff;
+}
+.dsp_menu ul.navmenu > li > a:hover,.dsp_menu  ul.navmenu > li > a:focus,.dsp_menu  ul.navmenu > li > a:active {
+    outline: none;
+    color: #fff;
+    background-color: #2ab8bd;
+    font-weight: 400 !important;
+}
+.lavish-seachbox {
+    background-color: #F06060;
+}
+input[type="submit"], .btn, .btn a{
+	    background-color: #7CD0AE;
+}
+.camera_caption.center h3{
+	font-family: 'Oxygen', sans-serif;
+	font-weight:300;
+}
+.camera_caption.center p{
+	font-family: 'Source Sans Pro',Helvetica, Arial, sans-serif;
+}
+ul.lavish_date_top_menu li{
+	color:#F06060;
+}
+.dsp_login_logout ul.navmenu ul.sub-menu {
+    background-color: #FA987D;
+    border-top: 4px solid #FA987D;
+}
+.dsp_login_logout ul.navmenu ul.sub-menu>li {
+    border-top: 1px solid #FA987D;
+}
+.dsp_login_logout  ul.lavish_date_top_menu ul.sub-menu>li>a:hover {
+	background-color:#F06060;
+}
+ul.lavish_date_top_menu ul.sub-menu:before {
+    border-bottom: 10px solid #FA987D;
+}
+.cara_members_age span {
+    background-color: #FA987D;
+	font-weight:400;
+    margin-top: -1.5em;
+    padding: 0px 7px;
+    line-height: 1.5;
+}
+.jcarousel-prev, .jcarousel-next{
+	color:#72CCA7;
+	background-image:none;
+}
+.jcarousel-wrapper-frontpage .jcarousel-clip-horizontal {
+    margin: 0px 30px 0px 25px;
+}
+.la_icons {
+    border: 1px solid #72CCA7;
+    color: #72CCA7;
+}
+.la_icons:hover{
+	background-color:#72CCA7;
+}
+.main-wrapper .dsp_tab1 a{
+	color:#72CCA7;
+}
+.main-wrapper .dsp-tab-container .dsp_tab1-active{
+	background-color:#72CCA7;
+}
+.dsp-tab-container.touch{
+	border:1px solid #72CCA7;
+}
+.dsp-user-info-container a {
+    font-size: 13px;
+    color: #fff !important;
+    padding: 7px 0px;
+    background: #FA987D;
+}
+.dsp-user-info-container:before{
+	border-top: 15px solid #FA987D;
+}
+
+.lavish_date_widget_bottom, .lavish_footer {
+    font-weight: 400;
+}
+.lavish_date_widget_bottom {
+    background-color: #A9A9A9;
+     border-top: 0 solid #7CD0AE; 
+}
+.lavish_date_widget_bottom h3 {
+    border-bottom: 1px solid #C3C3C3;
+}
+ul.bottom_widget_social li {
+    border-bottom: 1px solid #BFBFBF;
+}
+.lavish_footer {
+    color: #fff;
+    background-color: #A2A2A2;
+}
+.widget.widget_recent_entries>ul>li>a {
+    background-color: transparent;
+}
+.widget.widget_recent_entries ul li {
+    border-bottom: 1px solid #BFBFBF;
+}
+button, input[type="submit"], input[type="button"], input[type="reset"], .btn-reply {
+    background: #7CD0AE!important;
+}
+.tab-content-members .dsp_tab1-active{
+	background-color:#72CCA7;
+	padding:5px 10px;
+	color:#FFF;
+	border:none;
+}
+.tab-content-members .dsp_tab1-active a, .tab-button .right-link{
+	color:#FFF !important;
+}
+.tab-button .right-link{
+	background-color:#72CCA7;
+}
+
+.lavish_date_user_avator_top img {
+    border: 2px solid #FFFFFF;
+}
+.jcarousel-prev, .jcarousel-next {
+    margin-top: -146px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-color: transparent !important;
+    border: 1px solid #EFEFEF;
+    border-radius: 50%;
+    padding: 7px 13px;
+    z-index: 9999;
+    overflow: hidden;
+}
+.jcarousel-prev:after, .jcarousel-next:after{
+	color:#7CD0AE;
+}
+a.db-member-title {
+    margin-top: 5px;
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+}
+.camera_caption.left p, .camera_caption .btn, .camera_caption .btn:hover{
+	font-family: 'Source Sans Pro',Helvetica, Arial, sans-serif;
+}
+.main-wrapper .line {
+    border-top: 1px solid #72CCA7;
+}
+#dsp_plugin .menus-profile a:hover {
+    background-color: #EF613A;
+}
+.tooltip-cont {
+    background-color: #FFF;
+	color:#000;
+	box-shadow:0 0 10px rgba(0,0,0,0.15);
+}
+.tooltip-cont:after {
+    border-top: 5px solid #FFF;
+}
+.sidebar .widget_wp_sidebarlogin ul li{
+	padding:0;
+}
+.dspdp-spacer-hg.dspdp-plugin {
+    padding: 0;
+}
+.widget.widget_wp_sidebarlogin ul.pagenav>li>a {
+    font-family: 'Source Sans Pro',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+.slider-container{
+}
+.cameraSlide img {
+    opacity: 1;
+}
+ul.navmenu>li:hover>a {
+    background-color: #10A397!important;
+    color: #fff;
+}
+
+ul.navmenu ul.sub-menu {
+    background-color: #10A397;
+    border-top: 4px solid #10A397;
+	width:232px;
+}
+ul.navmenu ul.sub-menu>li {
+    border-top: 1px solid #10A397;
+}
+ul.navmenu ul.sub-menu>li a{
+	font-weight:400;
+}
+
+ul.navmenu li:hover>ul, .navmenu ul li:hover>ul {
+    display: block;
+    margin-right: -99px;
+}
+ul.navmenu ul.sub-menu>li>a:hover, ul.navmenu ul.sub-menu>li>a:focus, ul.navmenu ul.sub-menu>li>a:active {
+    background-color: #0B887E;
+}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    background-color: #7CD0AE;
+    border-color: #7CD0AE;
+}
+.widget_wp_sidebarlogin h3{
+	margin-top: 5px;
+}
+ul.lavish_date_top_menu li.nav_user_click_toggle{
+	padding:14px 5px 13px 15px;
+}
+ul.lavish_date_top_menu li.nav_user_click_toggle:hover{
+	background-color:#f9f9f9;
+}
+ul.lavish_date_top_menu li.nav_user_click_toggle .down.fa.fa-sort-desc{
+	top: -2px;
+    position: relative;
+    margin: 0 6px;
+}
+.dsp-form-control, .dspdp-form-control {
+    padding: 6px 2px !important;
+    font-size: 14px;
+    font-weight: 400;
+}
+.dspdp-form-horizontal .dsp-form-group{
+	margin-left:-25px;
+	margin-left:-25px;
+}
+
+.box-pedding .dsp_reg_main .dsp-form-control, .dsp-form-container .dsp-form-control {
+    height: auto;
+}
+
+ul.edit-profile .dsp-control-label, .form-horizontal .dsp-control-label {
+    color: #000 !important;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 8px;
+}
+.dspdp-form-inline .dsp-control-label {
+	margin-top:0;
+	padding-top:8px;
+}
+input[type="radio"], input[type="checkbox"] {
+    margin: 4px 4px 0 0;
+    margin-top: -2px;
+    line-height: normal;
+    vertical-align: middle;
+}
+.container input.btn {
+    padding: 6px 20px!important;
+}
+.content-search select{
+	height:auto !important;
+}
+.dsp-member-container .image-box.image-container .age-text, .dsp-member-container .dsp-user-details, .dsp-home-member .dsp-user-details {
+    color: #5BBFB7;
+}
+h2.home_page_heading_big {
+    font-size: 3rem;
+   text-transform: none;
+    font-family: satisfy,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.widget>h2, .dsp-page-title, .widget_wp_sidebarlogin h3{
+	font-family: satisfy,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.dsp-input-group .dsp-form-control{
+	margin:0 !important;
+}
+.widget_wp_sidebarlogin form{
+	padding:20px 20px 0;
+}
+input[type="submit"], .btn, .btn a {
+    font-size: 14px;
+    vertical-align: top;
+	padding:6px 20px!important;
+}
+.sidebarlogin_otherlinks a{
+	display:block;
+	padding:10px 20px;
+}
+.sidebar .widget_wp_sidebarlogin ul li{
+	border-top:1px solid #f4f4f4;
+	border-bottom:0;
+}
+.dsp_guest_home_page_col1 .dsp_name .age-text {
+    font-size: 14px;
+    color: #7B7B7B;
+}
+.dsp_guest_home_page_col1 .dsp_name {
+    padding: 0 0 15px;
+	line-height:1.2;
+}
+#dsp_plugin .linkright-view-profile-page .dspdp-btn-xs{
+	cursor:pointer;
+	font-size:12px;
+	padding:3px 7px !important;
+}
+.wpse_pagination span.current, .wpse_pagination div {
+    background: #84D3B2;
+    color: #FFF;
+}
+.wpse_pagination div  a{
+	color:#FFF;
+}
+.wpse_pagination .disabled {
+    background: #D3E4E4;
+}
+.camera_prev, .camera_next, .camera_commands {
+    cursor: pointer;
+    height: 80px;
+	line-height:80px;
+    margin-top: -40px;
+    width: 80px;
+	background-color:rgba(255,255,255,0.7);
+	box-shadow:0 0 15px rgba(0,0,0,0.1);
+	text-align:center; 
+	color:#72CCA7;
+}
+.camera_prev:hover, .camera_next:hover, .camera_commands:hover {
+	background-color:#72CCA7;
+	color:#FFF;
+}
+.camera_prev>span, .camera_next>span, .camera_commands>div.camera_stop, .camera_commands>div.camera_play{
+	display:block;
+	width:80px;
+	height:80px;
+	background:none;
+	font-size:26px;
+	
+	
+}
+.camera_commands {
+    right: 81px;
+}
+.camera_stop:after{
+	display: inline-block;
+    font: normal normal normal 14px/80px FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	content:'\f04c';
+	font-size:18px;
+}
+.camera_play:after{
+	display: inline-block;
+    font: normal normal normal 14px/80px FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	content:'\f04b';
+	font-size:18px;
+}
+.camera_prev>span:after{
+	display: inline-block;
+    font: normal normal normal 14px/80px FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	content:'\f104'
+}
+.camera_next>span:after{
+	display: inline-block;
+    font: normal normal normal 14px/80px FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	content:'\f105'
+}
+.sbOptions {
+    background: #E25555;
+}
+.sbSelector:hover{
+	background-color:#FFF;
+}
+.sbOptions li a {
+    border-bottom: 1px solid #D03A3A;
+}
+.dsp-filter-container select, .sbHolder {
+    border-radius: 0;
+}
+.sbOptions li a:hover {
+    background: #D03A3A;
+    color: #FFF;
+}
